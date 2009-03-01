@@ -1,0 +1,17 @@
+{%extends "modelo.django.html"%}
+
+{%block miolo%}
+
+<h1>Grupo: {{nome}}</h1>
+<table>
+    {% for p in participantes %}
+    <tr>
+        <td>{{ p.marca }}</td>
+        <td>{{ p.email }}</td>
+        <td>&#x27bc;</td>
+        <td>{{ p.beneficiario }}</td>
+    </tr>
+    {% endfor %}
+</table>
+        
+{%endblock%}

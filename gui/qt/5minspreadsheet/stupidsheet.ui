@@ -1,0 +1,84 @@
+<ui version="4.0" >
+ <class>Form</class>
+ <widget class="QWidget" name="Form" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout" >
+   <item>
+    <widget class="QTableWidget" name="grid" >
+     <row/>
+     <row/>
+     <row/>
+     <row/>
+     <row/>
+     <row/>
+     <row/>
+     <row/>
+     <row/>
+     <row/>
+     <column>
+      <property name="text" >
+       <string>A</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>B</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>C</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>D</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>E</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>F</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>G</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>H</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>I</string>
+      </property>
+     </column>
+     <column>
+      <property name="text" >
+       <string>J</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

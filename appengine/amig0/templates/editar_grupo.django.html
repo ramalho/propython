@@ -1,0 +1,25 @@
+{%extends "modelo.django.html"%}
+
+{%block miolo%}
+
+<form action="{{request.uri}}" method="post">
+    <table>
+        <tr>
+            <th>Nome do grupo</th><td><input type="text" name="nome" value="{{nome}}"></td>
+        </tr>    
+        <tr>
+            <th>Participantes<br/>(um e-mail por linha)</th>
+            <td>
+                <textarea cols="40" rows="20" name="emails">{{emails}}</textarea>
+            </td>
+        </tr>    
+        <tr>
+            <th>&nbsp;</th>
+            <td>
+                <input type="submit" value="criar grupo"
+            </td>
+        </tr>    
+    </table>
+</form>
+
+{%endblock%}

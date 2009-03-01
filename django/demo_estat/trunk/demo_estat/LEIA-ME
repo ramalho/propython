@@ -1,0 +1,6 @@
+Este projeto serve apenas para demonstrar a configuração e uso 
+de arquivos estáticos no Django, a saber:
+- imagens, folhas de estilo, fontes JavaScript etc. que fazem
+  parte da estrutura de uma aplicação
+- arquivos e imagens enviados para o site por usuários através
+  de modelos com campos FileField e ImageField

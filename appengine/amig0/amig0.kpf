@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="2dbebccc-e2da-406a-9bb5-8a34c0cce3de" kpf_version="4" name="amig0.kpf">
+<preference-set idref="2dbebccc-e2da-406a-9bb5-8a34c0cce3de">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+<preference-set idref="2dbebccc-e2da-406a-9bb5-8a34c0cce3de/templates/editar_grupo.django.html">
+  <string id="spellcheckLangID">en-US</string>
+</preference-set>
+</project>

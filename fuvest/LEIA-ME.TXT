@@ -1,0 +1,6 @@
+Exemplos e massas de dados para operacoes com strings e conjuntos.
+
+OBS. O programa de homônimos não está correto porque não leva em conta que
+nas listas de isentos existem entradas duplicadas para as mesmas pessoas,
+com diferenças apenas na forma de escrever o RG, ou às vezes nenhuma 
+diferença no RG.

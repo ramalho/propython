@@ -1,0 +1,4959 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+  <url>http://books.google.com/books?uid=7252650871102685380</url>
+  <books>
+    <book>
+      <id>-blJhrfvouUC</id>
+      <url>http://books.google.com/books?id=-blJhrfvouUC</url>
+      <title>The Annotated Alice: Alice&apos;s adventures in Wonderland &amp; Through the looking-glass</title>
+      <contributor>Lewis Carroll, Martin Gardner, John Tenniel</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0393048470</value>
+      </identifier>
+    </book>
+    <book>
+      <id>4vJm2RlBmqAC</id>
+      <url>http://books.google.com/books?id=4vJm2RlBmqAC</url>
+      <title>Curso de Lógica de Programação</title>
+      <contributor>Ricardo Said</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8560480242</value>
+      </identifier>
+    </book>
+    <book>
+      <id>TudQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=TudQAAAAMAAJ</url>
+      <title>Designing with Blends: Conceptual Foundations of Human-computer Interaction and Software Engineering</title>
+      <contributor>Manuel Imaz, David Benyon</contributor>
+    </book>
+    <book>
+      <id>wKFQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=wKFQAAAAMAAJ</url>
+      <title>Pragmatic Version Control: Using Subversion</title>
+      <contributor>Mike Mason</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0977616657</value>
+      </identifier>
+    </book>
+    <book>
+      <id>xy2bAAAACAAJ</id>
+      <url>http://books.google.com/books?id=xy2bAAAACAAJ</url>
+      <title>でかいプレゼン高橋メソッドの本</title>
+      <contributor>高橋征義</contributor>
+    </book>
+    <book>
+      <id>9ruSAAAACAAJ</id>
+      <url>http://books.google.com/books?id=9ruSAAAACAAJ</url>
+      <title>Puer aeternus: a luta do adulto contra o paraíso da infância</title>
+      <contributor>Marie-Louise von Franz</contributor>
+    </book>
+    <book>
+      <id>FJ6FHQAACAAJ</id>
+      <url>http://books.google.com/books?id=FJ6FHQAACAAJ</url>
+      <title>Gödel, Escher, Bach: an eternal golden braid</title>
+      <contributor>Douglas R. Hofstadter</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0465026850</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6U32HQAACAAJ</id>
+      <url>http://books.google.com/books?id=6U32HQAACAAJ</url>
+      <title>Wheels, Life, and Other Mathematical Amusements</title>
+      <contributor>Martin Gardner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0716715899</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ZaomAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=ZaomAAAAMAAJ</url>
+      <title>The Armchair Universe: An Exploration of Computer Worlds</title>
+      <contributor>A. K. Dewdney</contributor>
+    </book>
+    <book>
+      <id>66q1IgAACAAJ</id>
+      <url>http://books.google.com/books?id=66q1IgAACAAJ</url>
+      <title>Fire in the Valley: The Making of the Personal Computer</title>
+      <contributor>Paul Freiberger, Michael Swaine</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0881341215</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Uua6AgAACAAJ</id>
+      <url>http://books.google.com/books?id=Uua6AgAACAAJ</url>
+      <title>Logic Machines and Diagrams</title>
+      <contributor>Martin Gardner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0226282449</value>
+      </identifier>
+    </book>
+    <book>
+      <id>udJ9ccBA3CgC</id>
+      <url>http://books.google.com/books?id=udJ9ccBA3CgC</url>
+      <title>Symbolic Logic and The Game of Logic: (both Books Bound as One)</title>
+      <contributor>Lewis Carroll</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486204928</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6TwbGGSz6NYC</id>
+      <url>http://books.google.com/books?id=6TwbGGSz6NYC</url>
+      <title>Understanding computers and cognition: a new foundation for design</title>
+      <contributor>Terry Winograd, Fernando Flores</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201112973</value>
+      </identifier>
+    </book>
+    <book>
+      <id>XkYDHgAACAAJ</id>
+      <url>http://books.google.com/books?id=XkYDHgAACAAJ</url>
+      <title>The Tree of Knowledge: The Biological Roots of Human Understanding</title>
+      <contributor>Humberto R. Maturana, Francisco J. Varela</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0877733732</value>
+      </identifier>
+    </book>
+    <book>
+      <id>qbSZAAAACAAJ</id>
+      <url>http://books.google.com/books?id=qbSZAAAACAAJ</url>
+      <title>The Computer Underground</title>
+      <contributor>M. Harry</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0915179318</value>
+      </identifier>
+    </book>
+    <book>
+      <id>FQukAAAACAAJ</id>
+      <url>http://books.google.com/books?id=FQukAAAACAAJ</url>
+      <title>Nightmover: How Aldrich Ames Sold the CIA to the KGB for $4.6 Million</title>
+      <contributor>David Wise</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0060927313</value>
+      </identifier>
+    </book>
+    <book>
+      <id>69_WvpTGXOsC</id>
+      <url>http://books.google.com/books?id=69_WvpTGXOsC</url>
+      <title>The Tycoons: How Andrew Carnegie, John D. Rockefeller, Jay Gould, and J. P. Morgan Invented the American Supereconomy</title>
+      <contributor>Charles R. Morris</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0805081348</value>
+      </identifier>
+    </book>
+    <book>
+      <id>a70CHAAACAAJ</id>
+      <url>http://books.google.com/books?id=a70CHAAACAAJ</url>
+      <title>Shackleton&apos;s Forgotten Expedition: The Voyage of the Nimrod</title>
+      <contributor>Beau Riffenburgh</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1582344884</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Ow6pJQAACAAJ</id>
+      <url>http://books.google.com/books?id=Ow6pJQAACAAJ</url>
+      <title>A Guide to the Elements</title>
+      <contributor>Albert Stwertka</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0195127080</value>
+      </identifier>
+    </book>
+    <book>
+      <id>az_HJQAACAAJ</id>
+      <url>http://books.google.com/books?id=az_HJQAACAAJ</url>
+      <title>História concisa do Brasil</title>
+      <contributor>Boris Fausto</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8531405920</value>
+      </identifier>
+    </book>
+    <book>
+      <id>zk7JGAAACAAJ</id>
+      <url>http://books.google.com/books?id=zk7JGAAACAAJ</url>
+      <title>Churchill on Leadership: Executive Success in the Face of Adversity</title>
+      <contributor>Steven F. Hayward</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0761508554</value>
+      </identifier>
+    </book>
+    <book>
+      <id>iPf6GgAACAAJ</id>
+      <url>http://books.google.com/books?id=iPf6GgAACAAJ</url>
+      <title>The Meaning of Hitler</title>
+      <contributor>Sebastian Haffner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1857998782</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MQ6SHAAACAAJ</id>
+      <url>http://books.google.com/books?id=MQ6SHAAACAAJ</url>
+      <title>Churchill: A Biography</title>
+      <contributor>Roy Jenkins</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0452283523</value>
+      </identifier>
+    </book>
+    <book>
+      <id>kp8OAAAACAAJ</id>
+      <url>http://books.google.com/books?id=kp8OAAAACAAJ</url>
+      <title>Spies: The Secret Agents Who Changed the Course of History</title>
+      <contributor>Ernest Volkman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471154032</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3USTBk2dulQC</id>
+      <url>http://books.google.com/books?id=3USTBk2dulQC</url>
+      <title>Battleground Berlin: CIA Vs. KGB in the Cold War</title>
+      <contributor>David E. Murphy, Sergei A. Kondrashev, George Bailey</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0300078714</value>
+      </identifier>
+    </book>
+    <book>
+      <id>GzFYAgAACAAJ</id>
+      <url>http://books.google.com/books?id=GzFYAgAACAAJ</url>
+      <title>Op. JB</title>
+      <contributor>Christopher Creighton</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0684817861</value>
+      </identifier>
+    </book>
+    <book>
+      <id>fvXCHQAACAAJ</id>
+      <url>http://books.google.com/books?id=fvXCHQAACAAJ</url>
+      <title>The Bombing of Auschwitz: Should the Allies Have Attempted It?</title>
+      <contributor>Michael J. Neufeld, Michael Berenbaum</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0312198388</value>
+      </identifier>
+    </book>
+    <book>
+      <id>EHtrn0Pzpz8C</id>
+      <url>http://books.google.com/books?id=EHtrn0Pzpz8C</url>
+      <title>The Guinness Book of Espionage</title>
+      <contributor>Mark Lloyd</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0306805847</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Y3ffAAAACAAJ</id>
+      <url>http://books.google.com/books?id=Y3ffAAAACAAJ</url>
+      <title>Quimica</title>
+      <contributor>Ricardo Feltre</contributor>
+    </book>
+    <book>
+      <id>bfv8AAAACAAJ</id>
+      <url>http://books.google.com/books?id=bfv8AAAACAAJ</url>
+      <title>Spies: A Narrative Encyclopedia of Dirty Deeds and Double Dealing from Biblical Times to Today</title>
+      <contributor>Jay Robert Nash</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0871317907</value>
+      </identifier>
+    </book>
+    <book>
+      <id>-SP7G-0H-a0C</id>
+      <url>http://books.google.com/books?id=-SP7G-0H-a0C</url>
+      <title>Scipio Africanus: Greater Than Napoleon</title>
+      <contributor>Basil Henry Liddell Hart</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0306805839</value>
+      </identifier>
+    </book>
+    <book>
+      <id>iPd8HAAACAAJ</id>
+      <url>http://books.google.com/books?id=iPd8HAAACAAJ</url>
+      <title>The Fugitive Game: Online with Kevin Mitnick</title>
+      <contributor>Jonathan Littman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316528692</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3j8si29hddwC</id>
+      <url>http://books.google.com/books?id=3j8si29hddwC</url>
+      <title>High Output Management</title>
+      <contributor>ANDREW S. GROVE</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0679762884</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ARHc9OOVzQ4C</id>
+      <url>http://books.google.com/books?id=ARHc9OOVzQ4C</url>
+      <title>Fired up!: From Corporate Kiss-Off to Entrepreneurial Kick-Off : Take Charge of Your Destiny in Our Downsizing World</title>
+      <contributor>Michael Gill, Mike Gill, Michael Gates Gill, Sheila Paterson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0670865486</value>
+      </identifier>
+    </book>
+    <book>
+      <id>YxbJi2NqNGUC</id>
+      <url>http://books.google.com/books?id=YxbJi2NqNGUC</url>
+      <title>Open Sources: Voices from the Open Source Revolution</title>
+      <contributor>Chris DiBona, Sam Ockman, Mark Stone</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565925823</value>
+      </identifier>
+    </book>
+    <book>
+      <id>aPSIAAAACAAJ</id>
+      <url>http://books.google.com/books?id=aPSIAAAACAAJ</url>
+      <title>Dvorak Predicts: An Insider&apos;s Look at the Computer Industry</title>
+      <contributor>John C. Dvorak</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0078819814</value>
+      </identifier>
+    </book>
+    <book>
+      <id>CPSJAAAACAAJ</id>
+      <url>http://books.google.com/books?id=CPSJAAAACAAJ</url>
+      <title>Out of the Inner Circle: The True Story of a Computer Intruder Capable of Cracking the Nation&apos;s Most Secure Computer Systems</title>
+      <contributor>Bill Landreth</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>155615223X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>jbNCAAAACAAJ</id>
+      <url>http://books.google.com/books?id=jbNCAAAACAAJ</url>
+      <title>A era das revoluções: Europa 1789-1848</title>
+      <contributor>E J Hobsbawm</contributor>
+    </book>
+    <book>
+      <id>5mtVKwAACAAJ</id>
+      <url>http://books.google.com/books?id=5mtVKwAACAAJ</url>
+      <title>Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers</title>
+      <contributor>Geoffrey A. Moore</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0887307175</value>
+      </identifier>
+    </book>
+    <book>
+      <id>siUBHQAACAAJ</id>
+      <url>http://books.google.com/books?id=siUBHQAACAAJ</url>
+      <title>The House of Medici: Its Rise and Fall</title>
+      <contributor>Christopher Hibbert</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0688053394</value>
+      </identifier>
+    </book>
+    <book>
+      <id>9vSxAAAACAAJ</id>
+      <url>http://books.google.com/books?id=9vSxAAAACAAJ</url>
+      <title>Florence: The Biography of a City</title>
+      <contributor>Christopher Hibbert</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140166440</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pCabAAAACAAJ</id>
+      <url>http://books.google.com/books?id=pCabAAAACAAJ</url>
+      <title>Design Essentials</title>
+      <contributor>Luanne Seymour Cohen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0672485389</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bHatAAAACAAJ</id>
+      <url>http://books.google.com/books?id=bHatAAAACAAJ</url>
+      <title>Making Board, Peg &amp; Dice Games</title>
+      <contributor>Jeff Loader</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0946819408</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3EfNAAAACAAJ</id>
+      <url>http://books.google.com/books?id=3EfNAAAACAAJ</url>
+      <title>The Game Inventor&apos;s Handbook</title>
+      <contributor>Stephen Peek</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1558703152</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0ygEAAAACAAJ</id>
+      <url>http://books.google.com/books?id=0ygEAAAACAAJ</url>
+      <title>Blood Brothers</title>
+      <contributor>John B. Monroe</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0933635699</value>
+      </identifier>
+    </book>
+    <book>
+      <id>WJmnAAAACAAJ</id>
+      <url>http://books.google.com/books?id=WJmnAAAACAAJ</url>
+      <title>Blood Brothers 2</title>
+      <contributor>Geoff Gillan, Kathy Ho, Marcus Rowland, John B. Monroe</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0933635915</value>
+      </identifier>
+    </book>
+    <book>
+      <id>XZIJAAAACAAJ</id>
+      <url>http://books.google.com/books?id=XZIJAAAACAAJ</url>
+      <title>The Stars Are Right!</title>
+      <contributor>John Tynes, Kevin Ross, Andre Bishop, Richard Watts, David Pauwells</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0933635885</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MuLjAAAACAAJ</id>
+      <url>http://books.google.com/books?id=MuLjAAAACAAJ</url>
+      <title>Call of Cthulhu</title>
+      <contributor>Sandy Petersen, Lynn Willis, Keith Herger</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0933635869</value>
+      </identifier>
+    </book>
+    <book>
+      <id>N00LAAAACAAJ</id>
+      <url>http://books.google.com/books?id=N00LAAAACAAJ</url>
+      <title>The Illustrated I Ching</title>
+      <contributor>R. L. Wing</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0385177895</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Q1W9AAAACAAJ</id>
+      <url>http://books.google.com/books?id=Q1W9AAAACAAJ</url>
+      <title>How Con Games Work</title>
+      <contributor>M. Allen Henderson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0806510145</value>
+      </identifier>
+    </book>
+    <book>
+      <id>56n3GgAACAAJ</id>
+      <url>http://books.google.com/books?id=56n3GgAACAAJ</url>
+      <title>Lighter Than Air: An Illustrated History of the Airship</title>
+      <contributor>Lee Payne</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0517574764</value>
+      </identifier>
+    </book>
+    <book>
+      <id>WYoqAAAACAAJ</id>
+      <url>http://books.google.com/books?id=WYoqAAAACAAJ</url>
+      <title>Jane&apos;s Submarines: War Beneath the Waves from 1776 to the Present Day</title>
+      <contributor>Robert Hutchinson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0007163681</value>
+      </identifier>
+    </book>
+    <book>
+      <id>nlh7AAAACAAJ</id>
+      <url>http://books.google.com/books?id=nlh7AAAACAAJ</url>
+      <title>Cerco do Porto [1832-33]: a cidade invicta</title>
+      <contributor>David Martelo</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>9728563485</value>
+      </identifier>
+    </book>
+    <book>
+      <id>GkDYAAAACAAJ</id>
+      <url>http://books.google.com/books?id=GkDYAAAACAAJ</url>
+      <title>Campanhas navais: 1793-1807 : volume I : a armada e a Europa : a Marinha portuguesa na época de Napoleão</title>
+      <contributor>José Rodrigues Pereira</contributor>
+    </book>
+    <book>
+      <id>hSTMAgAACAAJ</id>
+      <url>http://books.google.com/books?id=hSTMAgAACAAJ</url>
+      <title>Campanhas navais: 1807-1823 : volume II : a armada e o Brasil : a Marinha Portuguesa na época de Napoleão</title>
+      <contributor>José Rodrigues Pereira</contributor>
+    </book>
+    <book>
+      <id>bzrya4r-2n8C</id>
+      <url>http://books.google.com/books?id=bzrya4r-2n8C</url>
+      <title>The Oxford Illustrated History of the Royal Navy</title>
+      <contributor>J. R. Hill, Bryan Ranft</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0198605277</value>
+      </identifier>
+    </book>
+    <book>
+      <id>fzhMjPwJ99kC</id>
+      <url>http://books.google.com/books?id=fzhMjPwJ99kC</url>
+      <title>Trafalgar</title>
+      <contributor>John Terraine, J. N. Westwood</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1853266868</value>
+      </identifier>
+    </book>
+    <book>
+      <id>UQyd1ryvqhkC</id>
+      <url>http://books.google.com/books?id=UQyd1ryvqhkC</url>
+      <title>Napoleon&apos;s Sea Soldiers</title>
+      <contributor>Rene Chartrand, Francis Back</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0850459982</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ymRAcjquS0UC</id>
+      <url>http://books.google.com/books?id=ymRAcjquS0UC</url>
+      <title>Pirate Ship 1660-1730</title>
+      <contributor>Angus Konstam, Tony Bryan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1841764973</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Bs2MVggWyvQC</id>
+      <url>http://books.google.com/books?id=Bs2MVggWyvQC</url>
+      <title>Napoleonic Naval Armaments 1792-1815</title>
+      <contributor>Chris Henry, Brian Delf</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1841766356</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Og_73Qn8jp8C</id>
+      <url>http://books.google.com/books?id=Og_73Qn8jp8C</url>
+      <title>British Napoleonic Ship-Of-The-Line</title>
+      <contributor>Angus Konstam, Tony Bryan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>184176308X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>fQJI5cX-klYC</id>
+      <url>http://books.google.com/books?id=fQJI5cX-klYC</url>
+      <title>The Wars of the Barbary Pirates: To the Shores of Tripoli: the Rise of the US Navy and Marines</title>
+      <contributor>Gregory Fremont-Barnes</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1846030307</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3BQEi5wIcu4C</id>
+      <url>http://books.google.com/books?id=3BQEi5wIcu4C</url>
+      <title>Ships and Seamen of the American Revolution</title>
+      <contributor>Jack Coggins</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486420728</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Qo8kOmEaORYC</id>
+      <url>http://books.google.com/books?id=Qo8kOmEaORYC</url>
+      <title>Wolf Pack: The Story of the U-Boat in World War II</title>
+      <contributor>GORDON WILLIAMSON</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1846031419</value>
+      </identifier>
+    </book>
+    <book>
+      <id>9etjK-7ZkUgC</id>
+      <url>http://books.google.com/books?id=9etjK-7ZkUgC</url>
+      <title>The Nelson Encyclopedia: People, Places, Battles, Ships, Myths, Mistresses, Memorials &amp; Memorabilia</title>
+      <contributor>Colin White, Royal Naval Museum (Great Britain)</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0811700135</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3-xzAAAACAAJ</id>
+      <url>http://books.google.com/books?id=3-xzAAAACAAJ</url>
+      <title>The Illustrated Encyclopedia of Ships, Boats, Vessels and Other Water-Borne Craft</title>
+      <contributor>Graham Blackburn</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0879519320</value>
+      </identifier>
+    </book>
+    <book>
+      <id>woy7AAAACAAJ</id>
+      <url>http://books.google.com/books?id=woy7AAAACAAJ</url>
+      <title>Nelson Against Napoleon: From the Nile to Copenhagen, 1798-1801</title>
+      <contributor>Robert Gardiner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1840673613</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MzdHGwAACAAJ</id>
+      <url>http://books.google.com/books?id=MzdHGwAACAAJ</url>
+      <title>The Campaign of Trafalgar, 1803-1805</title>
+      <contributor>Robert Gardiner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1840673583</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Z3fFktd7W3kC</id>
+      <url>http://books.google.com/books?id=Z3fFktd7W3kC</url>
+      <title>100 Gun Ship &quot;Victory&quot;</title>
+      <contributor>John McKay</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0851777988</value>
+      </identifier>
+    </book>
+    <book>
+      <id>hpTEAAAACAAJ</id>
+      <url>http://books.google.com/books?id=hpTEAAAACAAJ</url>
+      <title>Ship: 5,000 Years of Maritime Adventure</title>
+      <contributor>Brian Lavery, National Maritime Museum</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1405311541</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0SZzGwAACAAJ</id>
+      <url>http://books.google.com/books?id=0SZzGwAACAAJ</url>
+      <title>War at Sea in the Age of Sail</title>
+      <contributor>Andrew Lambert</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0304352462</value>
+      </identifier>
+    </book>
+    <book>
+      <id>vC1RIAAACAAJ</id>
+      <url>http://books.google.com/books?id=vC1RIAAACAAJ</url>
+      <title>The Complete Encyclopedia of Illustration</title>
+      <contributor>Johann Georg Heck</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0517278898</value>
+      </identifier>
+    </book>
+    <book>
+      <id>TtQCAAAACAAJ</id>
+      <url>http://books.google.com/books?id=TtQCAAAACAAJ</url>
+      <title>Naval Warfare in the Age of Sail: : the Evolution of Fighting Tactics, 1650-1815</title>
+      <contributor>Brian Turnstall</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0785814264</value>
+      </identifier>
+    </book>
+    <book>
+      <id>lXEBwv0LYogC</id>
+      <url>http://books.google.com/books?id=lXEBwv0LYogC</url>
+      <title>Head First Java: Your Brain on Java - A Learner&apos;s Guide</title>
+      <contributor>Kathy Sierra, Bert Bates</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596004656</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3623S1TzW-4C</id>
+      <url>http://books.google.com/books?id=3623S1TzW-4C</url>
+      <title>Java in a Nutshell: A Desktop Quick Reference</title>
+      <contributor>David Flanagan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>156592262X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>G4ridwFSpIoC</id>
+      <url>http://books.google.com/books?id=G4ridwFSpIoC</url>
+      <title>Sun Certified Programmer &amp; Developer for Java 2 Study Guide: (exams 310-035 &amp; 310-027)</title>
+      <contributor>Kathy Sierra, Bert Bates</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0072226846</value>
+      </identifier>
+    </book>
+    <book>
+      <id>i2QEAAAACAAJ</id>
+      <url>http://books.google.com/books?id=i2QEAAAACAAJ</url>
+      <title>Graphic Java 1.1: Mastering the AWT</title>
+      <contributor>David M. Geary</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0138630771</value>
+      </identifier>
+    </book>
+    <book>
+      <id>GzEHAAAACAAJ</id>
+      <url>http://books.google.com/books?id=GzEHAAAACAAJ</url>
+      <title>Java Examples in a Nutshell: A Tutorial Companion to Java in a Nutshell</title>
+      <contributor>David Flanagan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565923715</value>
+      </identifier>
+    </book>
+    <book>
+      <id>s2xbAgAACAAJ</id>
+      <url>http://books.google.com/books?id=s2xbAgAACAAJ</url>
+      <title>Cutting-Edge Java Game Programming</title>
+      <contributor>Neil Bartlett, Steve Simkin, Chris Stranc</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1883577985</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Bok3HgAACAAJ</id>
+      <url>http://books.google.com/books?id=Bok3HgAACAAJ</url>
+      <title>Java Precisely</title>
+      <contributor>Peter Sestoft</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262692767</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3JxuMxbhoaAC</id>
+      <url>http://books.google.com/books?id=3JxuMxbhoaAC</url>
+      <title>Servlets Java guide du programmeur</title>
+      <contributor>Jason Hunter, William Crawford</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>2841771962</value>
+      </identifier>
+    </book>
+    <book>
+      <id>zYIFAAAACAAJ</id>
+      <url>http://books.google.com/books?id=zYIFAAAACAAJ</url>
+      <title>The Java Class Libraries Poster</title>
+      <contributor>Patrick Chan, Rosanna Lee</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0321118871</value>
+      </identifier>
+    </book>
+    <book>
+      <id>StIPET-XKXMC</id>
+      <url>http://books.google.com/books?id=StIPET-XKXMC</url>
+      <title>Java en action: [solutions et exemplaires pour les développeurs Java]</title>
+      <contributor>Ian F. Darwin, Hervé Soulard</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>2841772039</value>
+      </identifier>
+    </book>
+    <book>
+      <id>gWZmeTKIw_QC</id>
+      <url>http://books.google.com/books?id=gWZmeTKIw_QC</url>
+      <title>The Java programming language</title>
+      <contributor>Ken Arnold, James Gosling</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201634554</value>
+      </identifier>
+    </book>
+    <book>
+      <id>HapQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=HapQAAAAMAAJ</url>
+      <title>Thinking in Java</title>
+      <contributor>Bruce Eckel</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0131002872</value>
+      </identifier>
+    </book>
+    <book>
+      <id>xLEo3ZO8PMYC</id>
+      <url>http://books.google.com/books?id=xLEo3ZO8PMYC</url>
+      <title>Core Java 2</title>
+      <contributor>Cay S. Horstmann, Gary Cornell</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0130927384</value>
+      </identifier>
+    </book>
+    <book>
+      <id>N4gGAAAACAAJ</id>
+      <url>http://books.google.com/books?id=N4gGAAAACAAJ</url>
+      <title>Teach Yourself Internet Game Programming with Java in 21 Days</title>
+      <contributor>Michael Morrison</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1575211483</value>
+      </identifier>
+    </book>
+    <book>
+      <id>wuocWtRtxQIC</id>
+      <url>http://books.google.com/books?id=wuocWtRtxQIC</url>
+      <title>Hibernate: A Developer&apos;s Notebook</title>
+      <contributor>James Elliott</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596006969</value>
+      </identifier>
+    </book>
+    <book>
+      <id>-g7VdTzHJkUC</id>
+      <url>http://books.google.com/books?id=-g7VdTzHJkUC</url>
+      <title>Better, Faster, Lighter Java</title>
+      <contributor>Bruce Tate, Justin Gehtland</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596006764</value>
+      </identifier>
+    </book>
+    <book>
+      <id>mqGxkVjN25cC</id>
+      <url>http://books.google.com/books?id=mqGxkVjN25cC</url>
+      <title>Java 1.5 Tiger: A Developer&apos;s Notebook</title>
+      <contributor>Brett McLaughlin, David Flanagan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596007388</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OjXQJQAACAAJ</id>
+      <url>http://books.google.com/books?id=OjXQJQAACAAJ</url>
+      <title>TechTV&apos;s Security Alert: Stories of Real People Protecting Themselves from Identity Theft, Scams and Viruses</title>
+      <contributor>Becky Worley, TechTV (Television network)</contributor>
+      <identifier>
+        <type>LCCN</type>
+        <value>2003107019</value>
+      </identifier>
+    </book>
+    <book>
+      <id>PTIGAAAACAAJ</id>
+      <url>http://books.google.com/books?id=PTIGAAAACAAJ</url>
+      <title>Concurrency: State Models &amp; Java Programs</title>
+      <contributor>Jeff Magee, Jeff Kramer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471987107</value>
+      </identifier>
+    </book>
+    <book>
+      <id>5GcCAAAACAAJ</id>
+      <url>http://books.google.com/books?id=5GcCAAAACAAJ</url>
+      <title>Flash 5 Interactivity and Scripting</title>
+      <contributor>Nigel Chapman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471497819</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Y5cIAAAACAAJ</id>
+      <url>http://books.google.com/books?id=Y5cIAAAACAAJ</url>
+      <title>Flash Studio Secrets</title>
+      <contributor>Glenn Thomas</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>076453548X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Fw9JAAAACAAJ</id>
+      <url>http://books.google.com/books?id=Fw9JAAAACAAJ</url>
+      <title>Flash Action Script F/x and Design</title>
+      <contributor>Bill Sanders</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>157610821X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>4CQoKU3lJP8C</id>
+      <url>http://books.google.com/books?id=4CQoKU3lJP8C</url>
+      <title>Effective Perl Programming: Writing Better Programs with Perl</title>
+      <contributor>Joseph N. Hall, Randal L. Schwartz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201419750</value>
+      </identifier>
+    </book>
+    <book>
+      <id>mHsMAAAACAAJ</id>
+      <url>http://books.google.com/books?id=mHsMAAAACAAJ</url>
+      <title>Official Guide to Programming with CGI.pm</title>
+      <contributor>Lincoln D. Stein</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471247448</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7q5QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=7q5QAAAAMAAJ</url>
+      <title>Perl Cookbook: Tips and Tricks for Perl Programmers.</title>
+      <contributor>Tom Christiansen, Nathan Torkington</contributor>
+    </book>
+    <book>
+      <id>_OVSAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=_OVSAAAAMAAJ</url>
+      <title>Learning WML &amp; WMLScript: Programming the Wireless Web</title>
+      <contributor>Martin Frost</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565929470</value>
+      </identifier>
+    </book>
+    <book>
+      <id>YZRFk__QcksC</id>
+      <url>http://books.google.com/books?id=YZRFk__QcksC</url>
+      <title>PHP Hacks: Tips and Tools for Creating Dynamic Web Sites</title>
+      <contributor>Jack D. Herrington</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596101392</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Yat0DYXpUj8C</id>
+      <url>http://books.google.com/books?id=Yat0DYXpUj8C</url>
+      <title>Upgrading to PHP 5</title>
+      <contributor>Adam Trachtenberg</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596006365</value>
+      </identifier>
+    </book>
+    <book>
+      <id>dm2_jgULbBUC</id>
+      <url>http://books.google.com/books?id=dm2_jgULbBUC</url>
+      <title>PHP in a Nutshell: A Desktop Quick Reference</title>
+      <contributor>Paul Hudson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596100671</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7OjvOmol3CcC</id>
+      <url>http://books.google.com/books?id=7OjvOmol3CcC</url>
+      <title>Programming PHP: Creating Dynamic Web Pages.</title>
+      <contributor>Rasmus Lerdorf, Kevin Tatroe, Bob Kaehms, Ric McGredy</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565926102</value>
+      </identifier>
+    </book>
+    <book>
+      <id>D6JQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=D6JQAAAAMAAJ</url>
+      <title>Php 5 Recipes: A Problem-solution Approach</title>
+      <contributor>Lee Babin, Jon Stephens, Nathan A. Good, Frank M. Kromann</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590595092</value>
+      </identifier>
+    </book>
+    <book>
+      <id>oJ9QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=oJ9QAAAAMAAJ</url>
+      <title>PHP 5 Power Programming</title>
+      <contributor>Andi Gutmans, Stig Bakken, Derick Rethans</contributor>
+    </book>
+    <book>
+      <id>ijlSAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=ijlSAAAAMAAJ</url>
+      <title>Mobile Robots: Inspiration to Implementation</title>
+      <contributor>Joseph L. Jones, Anita M. Flynn</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1568810113</value>
+      </identifier>
+    </book>
+    <book>
+      <id>LL0EAAAACAAJ</id>
+      <url>http://books.google.com/books?id=LL0EAAAACAAJ</url>
+      <title>Robotic Explorations: A Hands-On Introduction to Engineering</title>
+      <contributor>Fred G. Martin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0130895687</value>
+      </identifier>
+    </book>
+    <book>
+      <id>tq0OAAAACAAJ</id>
+      <url>http://books.google.com/books?id=tq0OAAAACAAJ</url>
+      <title>The Unofficial Guide to Lego Mindstorms Robots</title>
+      <contributor>Jonathan Knudsen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565926927</value>
+      </identifier>
+    </book>
+    <book>
+      <id>u31kzmbPHjYC</id>
+      <url>http://books.google.com/books?id=u31kzmbPHjYC</url>
+      <title>Extreme Mindstorms: an advanced guide to Lego Mindstorms</title>
+      <contributor>Dave Baum, Ralph Hemple, Michael Gasperi, Ralph Hempel, Luis Villa</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1893115844</value>
+      </identifier>
+    </book>
+    <book>
+      <id>90oHAAAACAAJ</id>
+      <url>http://books.google.com/books?id=90oHAAAACAAJ</url>
+      <title>Dave Baum&apos;s Definitive Guide to Lego Mindstorms</title>
+      <contributor>Dave Baum</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1893115097</value>
+      </identifier>
+    </book>
+    <book>
+      <id>8lINFCtJmwYC</id>
+      <url>http://books.google.com/books?id=8lINFCtJmwYC</url>
+      <title>Machine Beauty: Elegance and the Heart of Technology</title>
+      <contributor>David Hillel Gelernter, David Gelernter</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>046504316X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>_zDEHAAACAAJ</id>
+      <url>http://books.google.com/books?id=_zDEHAAACAAJ</url>
+      <title>Fab: The Coming Revolution on Your Desktop--from Personal Computers to Personal Fabrication</title>
+      <contributor>Neil Gershenfeld</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0465027466</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ebuBJwAACAAJ</id>
+      <url>http://books.google.com/books?id=ebuBJwAACAAJ</url>
+      <title>Frames of Mind: The Theory of Multiple Intelligences</title>
+      <contributor>Howard Gardner</contributor>
+      <identifier>
+        <type>LCCN</type>
+        <value>83070765</value>
+      </identifier>
+    </book>
+    <book>
+      <id>gDdwAAAACAAJ</id>
+      <url>http://books.google.com/books?id=gDdwAAAACAAJ</url>
+      <title>The Emperor&apos;s New Mind: Concerning Computers, Minds, and the Laws of Physics</title>
+      <contributor>Roger Penrose</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140145346</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Zl0FAAAACAAJ</id>
+      <url>http://books.google.com/books?id=Zl0FAAAACAAJ</url>
+      <title>Karel++: A Gentle Introduction to the Art of Object-Oriented Programming</title>
+      <contributor>Joseph Bergin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471138096</value>
+      </identifier>
+    </book>
+    <book>
+      <id>aNM7AAAACAAJ</id>
+      <url>http://books.google.com/books?id=aNM7AAAACAAJ</url>
+      <title>The complete keyboard player</title>
+      <contributor>Kenneth Baker</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>071190748X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>w1srGMohAZoC</id>
+      <url>http://books.google.com/books?id=w1srGMohAZoC</url>
+      <title>The Piano Handbook: Lessons in Life, Love, and the Perfect Blue Hawaiian</title>
+      <contributor>Carl Humphries, Robin Meloy Goldsby</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0879307277</value>
+      </identifier>
+    </book>
+    <book>
+      <id>rWfNv9BOXQwC</id>
+      <url>http://books.google.com/books?id=rWfNv9BOXQwC</url>
+      <title>How to Read Music</title>
+      <contributor>Helen Cooper</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0711900957</value>
+      </identifier>
+    </book>
+    <book>
+      <id>p8FmGwAACAAJ</id>
+      <url>http://books.google.com/books?id=p8FmGwAACAAJ</url>
+      <title>The Fairly Incomplete and Rather Badly Illustrated Monty Python Songbook</title>
+      <contributor>Chapman Graham, Terry Gilliam, John Du Prez</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0060951168</value>
+      </identifier>
+    </book>
+    <book>
+      <id>v8UrAgAACAAJ</id>
+      <url>http://books.google.com/books?id=v8UrAgAACAAJ</url>
+      <title>Mondo 2000: A User&apos;s Guide to the New Edge</title>
+      <contributor>Rudy von Bitter Rucker, R. U. Sirius, Queen Mu</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0060969288</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MaJQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=MaJQAAAAMAAJ</url>
+      <title>Careers in Multimedia</title>
+      <contributor>Vivid Studios, Vivid Studios, Vivid Media Studios</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1562763113</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3Fh2AAAACAAJ</id>
+      <url>http://books.google.com/books?id=3Fh2AAAACAAJ</url>
+      <title>Danny Goodman&apos;s Macintosh Handbook Featuring System 7</title>
+      <contributor>Danny Goodman, Richard Saul Wurman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>055335485X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>-FmBtPbWY4IC</id>
+      <url>http://books.google.com/books?id=-FmBtPbWY4IC</url>
+      <title>Applying Use Case Driven Object Modeling with UML: An Annotated E-Commerce Example</title>
+      <contributor>Doug Rosenberg, Kendall Scott</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201730391</value>
+      </identifier>
+    </book>
+    <book>
+      <id>kMcEAAAACAAJ</id>
+      <url>http://books.google.com/books?id=kMcEAAAACAAJ</url>
+      <title>Use Case Driven Object Modeling With Uml: A Practical Approach</title>
+      <contributor>Doug Rosenberg, Kendall Scott</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201432897</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OXEwAAAACAAJ</id>
+      <url>http://books.google.com/books?id=OXEwAAAACAAJ</url>
+      <title>UML Distilled: A Brief Guide to the Standard Object Modeling Language</title>
+      <contributor>Martin Fowler, Kendall Scott</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>020165783X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>-BsJAAAACAAJ</id>
+      <url>http://books.google.com/books?id=-BsJAAAACAAJ</url>
+      <title>Developing Object-Oriented Software for the Macintosh: Analysis, Design, and Programming</title>
+      <contributor>Neal Goldstein, Jeff Alger</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201570653</value>
+      </identifier>
+    </book>
+    <book>
+      <id>rbGhAAAACAAJ</id>
+      <url>http://books.google.com/books?id=rbGhAAAACAAJ</url>
+      <title>Seamless Object-oriented Software Architecture: Analysis and Design of Reliable Systems</title>
+      <contributor>Kim Walden, Jean-Marc Nerson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0130313033</value>
+      </identifier>
+    </book>
+    <book>
+      <id>hYIHAAAACAAJ</id>
+      <url>http://books.google.com/books?id=hYIHAAAACAAJ</url>
+      <title>Object Solutions: Managing the Object-Oriented Project</title>
+      <contributor>Grady Booch</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0805305947</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ueVQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=ueVQAAAAMAAJ</url>
+      <title>Surviving Object-oriented Projects: A Manager&apos;s Guide</title>
+      <contributor>Alistair Cockburn</contributor>
+    </book>
+    <book>
+      <id>y9iCgb7rBoAC</id>
+      <url>http://books.google.com/books?id=y9iCgb7rBoAC</url>
+      <title>Developing Applications with Java and UML</title>
+      <contributor>Paul R. Reed, Paul R. Reed, Jr.</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201702525</value>
+      </identifier>
+    </book>
+    <book>
+      <id>sK1QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=sK1QAAAAMAAJ</url>
+      <title>Agile software development</title>
+      <contributor>Alistair Cockburn</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201699699</value>
+      </identifier>
+    </book>
+    <book>
+      <id>wm8EAAAACAAJ</id>
+      <url>http://books.google.com/books?id=wm8EAAAACAAJ</url>
+      <title>Applying Use Cases: A Practical Guide</title>
+      <contributor>Geri Schneider, Jason P. Winters</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201309815</value>
+      </identifier>
+    </book>
+    <book>
+      <id>SGOyQai2TboC</id>
+      <url>http://books.google.com/books?id=SGOyQai2TboC</url>
+      <title>The CRC Card Book</title>
+      <contributor>David Bellin, Susan Suchman Simone</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201895358</value>
+      </identifier>
+    </book>
+    <book>
+      <id>VKJQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=VKJQAAAAMAAJ</url>
+      <title>Writing Effective Use Cases</title>
+      <contributor>Alistair Cockburn</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201702258</value>
+      </identifier>
+    </book>
+    <book>
+      <id>E9sKAAAACAAJ</id>
+      <url>http://books.google.com/books?id=E9sKAAAACAAJ</url>
+      <title>Handbook of Walkthroughs, Inspections, and Technical Reviews: Evaluating Programs, Projects, and Products</title>
+      <contributor>Daniel P. Freedman, Gerald M. Weinberg</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0932633196</value>
+      </identifier>
+    </book>
+    <book>
+      <id>H7FIAgAACAAJ</id>
+      <url>http://books.google.com/books?id=H7FIAgAACAAJ</url>
+      <title>Object Technology in Application Development</title>
+      <contributor>Daniel Tkach, Richard Puttick</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0805325727</value>
+      </identifier>
+    </book>
+    <book>
+      <id>b4pQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=b4pQAAAAMAAJ</url>
+      <title>Object-oriented Analysis and Design</title>
+      <contributor>James Martin, James J. Odell</contributor>
+    </book>
+    <book>
+      <id>LRQhdlrKNE8C</id>
+      <url>http://books.google.com/books?id=LRQhdlrKNE8C</url>
+      <title>Pair Programming Illuminated</title>
+      <contributor>Laurie Williams, Robert Kessler</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201745763</value>
+      </identifier>
+    </book>
+    <book>
+      <id>G8EL4H4vf7UC</id>
+      <url>http://books.google.com/books?id=G8EL4H4vf7UC</url>
+      <title>Extreme Programming Explained: Embrace Change</title>
+      <contributor>Kent Beck</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201616416</value>
+      </identifier>
+    </book>
+    <book>
+      <id>u13hVoYVZa8C</id>
+      <url>http://books.google.com/books?id=u13hVoYVZa8C</url>
+      <title>Planning Extreme Programming</title>
+      <contributor>Kent Beck, Martin Fowler</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201710919</value>
+      </identifier>
+    </book>
+    <book>
+      <id>BGMk5f4tMHUC</id>
+      <url>http://books.google.com/books?id=BGMk5f4tMHUC</url>
+      <title>Extreme Programming for Web Projects</title>
+      <contributor>Doug Wallace, Isobel Raggett, Joel Aufgang</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201794276</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Xz4NAAAACAAJ</id>
+      <url>http://books.google.com/books?id=Xz4NAAAACAAJ</url>
+      <title>Extreme Programming in Practice</title>
+      <contributor>James Newkirk, Robert C. Martin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201709376</value>
+      </identifier>
+    </book>
+    <book>
+      <id>vrpQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=vrpQAAAAMAAJ</url>
+      <title>Extreme programming Examined</title>
+      <contributor>Giancarlo Succi, Michele Marchesi</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201710404</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Bp5QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=Bp5QAAAAMAAJ</url>
+      <title>Agile Modeling: Effective Practices for EXtreme Programming and the Unified Process</title>
+      <contributor>Scott W. Ambler, Ron Jeffries</contributor>
+    </book>
+    <book>
+      <id>_oEHAAAACAAJ</id>
+      <url>http://books.google.com/books?id=_oEHAAAACAAJ</url>
+      <title>Object-Oriented Design Heuristics</title>
+      <contributor>Arthur J. Riel</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>020163385X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>37hQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=37hQAAAAMAAJ</url>
+      <title>Aspect-oriented Analysis and Design: The Theme Approach</title>
+      <contributor>Siobhán Clarke, Elisa Baniassad</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0321246748</value>
+      </identifier>
+    </book>
+    <book>
+      <id>AqlQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=AqlQAAAAMAAJ</url>
+      <title>Aspect-Oriented Software Development with Use Cases</title>
+      <contributor>Ivar Jacobson, Pan-Wei Ng</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0321268881</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Q4ZQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=Q4ZQAAAAMAAJ</url>
+      <title>Object-oriented Modeling and Design</title>
+      <contributor>James Rumbaugh, Michael Blaha, Frederick Eddy, William Lorensen, William Premerlani</contributor>
+    </book>
+    <book>
+      <id>8fNSAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=8fNSAAAAMAAJ</url>
+      <title>Building Web Applications with UML</title>
+      <contributor>Jim Conallen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201615770</value>
+      </identifier>
+    </book>
+    <book>
+      <id>WhrMAAAACAAJ</id>
+      <url>http://books.google.com/books?id=WhrMAAAACAAJ</url>
+      <title>Object-Oriented Software Construction</title>
+      <contributor>Bertrand Meyer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0136290493</value>
+      </identifier>
+    </book>
+    <book>
+      <id>A6lQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=A6lQAAAAMAAJ</url>
+      <title>Object-oriented Software Engineering: A Use Case Driven Approach</title>
+      <contributor>Ivar Jacobson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201544350</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7PCyAAAACAAJ</id>
+      <url>http://books.google.com/books?id=7PCyAAAACAAJ</url>
+      <title>Object-Oriented Analysis and Design With Applications</title>
+      <contributor>Grady Booch</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0805353402</value>
+      </identifier>
+    </book>
+    <book>
+      <id>WY1QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=WY1QAAAAMAAJ</url>
+      <title>The Design Patterns SmallTalk Companion</title>
+      <contributor>Sherman R. Alpert, Kyle Brown, Bobby Woolf</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201184621</value>
+      </identifier>
+    </book>
+    <book>
+      <id>mc8AAAAACAAJ</id>
+      <url>http://books.google.com/books?id=mc8AAAAACAAJ</url>
+      <title>Design Patterns CD: Elements of Reusable Object-Oriented Software</title>
+      <contributor>Erich Gamma</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201634988</value>
+      </identifier>
+    </book>
+    <book>
+      <id>5yNUBAAACAAJ</id>
+      <url>http://books.google.com/books?id=5yNUBAAACAAJ</url>
+      <title>Utilizando UML e padrões uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo</title>
+      <contributor>Craig Larman</contributor>
+    </book>
+    <book>
+      <id>LjJcCnNf92kC</id>
+      <url>http://books.google.com/books?id=LjJcCnNf92kC</url>
+      <title>Head First Design Patterns: [your brain on design patterns]</title>
+      <contributor>Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596007124</value>
+      </identifier>
+    </book>
+    <book>
+      <id>FyWZt5DdvFkC</id>
+      <url>http://books.google.com/books?id=FyWZt5DdvFkC</url>
+      <title>Patterns of Enterprise Application Architecture</title>
+      <contributor>Martin Fowler, David Rice</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0321127420</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3Ra-GJlYj30C</id>
+      <url>http://books.google.com/books?id=3Ra-GJlYj30C</url>
+      <title>Design Patterns Java Workbook: Java Workbook</title>
+      <contributor>Steven John Metsker</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201743973</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pPGEAAAACAAJ</id>
+      <url>http://books.google.com/books?id=pPGEAAAACAAJ</url>
+      <title>Head First Design Patterns Poster</title>
+      <contributor>Eric Freeman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596102143</value>
+      </identifier>
+    </book>
+    <book>
+      <id>IFWlHAAACAAJ</id>
+      <url>http://books.google.com/books?id=IFWlHAAACAAJ</url>
+      <title>The Object Primer: The Application Developer&apos;s Guide to Object-orientation</title>
+      <contributor>Scott W. Ambler</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0132424967</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Wy2sb0r_udYC</id>
+      <url>http://books.google.com/books?id=Wy2sb0r_udYC</url>
+      <title>Information Architecture for Designers: Structuring Websites for Business Success</title>
+      <contributor>Peter van Dijck</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>2880467314</value>
+      </identifier>
+    </book>
+    <book>
+      <id>s07eAAAACAAJ</id>
+      <url>http://books.google.com/books?id=s07eAAAACAAJ</url>
+      <title>Dicionário de metodologia científica um guia para a produção do conhecimento científico</title>
+      <contributor>Fábio Appolinário</contributor>
+    </book>
+    <book>
+      <id>fvzGGQAACAAJ</id>
+      <url>http://books.google.com/books?id=fvzGGQAACAAJ</url>
+      <title>Para entender as linguagens documentárias</title>
+      <contributor>Anna Maria Marques Cintra</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>857228012X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>V6GqAAAACAAJ</id>
+      <url>http://books.google.com/books?id=V6GqAAAACAAJ</url>
+      <title>A ciência da informação</title>
+      <contributor>Yves-François Le Coadic, Maria Yêda F S de Filgueiras Gomes</contributor>
+    </book>
+    <book>
+      <id>vT_e5XOa8rYC</id>
+      <url>http://books.google.com/books?id=vT_e5XOa8rYC</url>
+      <title>Managing Digital Resources in Libraries: [licensing, opinions, research, and analysis, systems and software, special projects and histories]</title>
+      <contributor>Audrey Fenner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0789024039</value>
+      </identifier>
+    </book>
+    <book>
+      <id>G89QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=G89QAAAAMAAJ</url>
+      <title>The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling</title>
+      <contributor>Ralph Kimball, Margy Ross</contributor>
+    </book>
+    <book>
+      <id>RQ4GAAAACAAJ</id>
+      <url>http://books.google.com/books?id=RQ4GAAAACAAJ</url>
+      <title>The Organization of Information</title>
+      <contributor>Arlene G. Taylor</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1563089769</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6-pSAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=6-pSAAAAMAAJ</url>
+      <title>Content Management Bible</title>
+      <contributor>Bob Boiko</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0764573713</value>
+      </identifier>
+    </book>
+    <book>
+      <id>rOYyAQAACAAJ</id>
+      <url>http://books.google.com/books?id=rOYyAQAACAAJ</url>
+      <title>The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations</title>
+      <contributor>James Surowiecki</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0385503865</value>
+      </identifier>
+    </book>
+    <book>
+      <id>61WSVFLVVn8C</id>
+      <url>http://books.google.com/books?id=61WSVFLVVn8C</url>
+      <title>Managing Enterprise Content: A Unified Content Strategy</title>
+      <contributor>Ann Rockley, Pamela Kostur, Steve Manning</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735713065</value>
+      </identifier>
+    </book>
+    <book>
+      <id>G_f5dFBGcZMC</id>
+      <url>http://books.google.com/books?id=G_f5dFBGcZMC</url>
+      <title>Don&apos;t Make Me Think!: A Common Sense Approach to Web Usability</title>
+      <contributor>Steve Krug</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0789723107</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Mc1oL9wpWPMC</id>
+      <url>http://books.google.com/books?id=Mc1oL9wpWPMC</url>
+      <title>Designing Web Usability: The Practice of Simplicity</title>
+      <contributor>Jakob Nielsen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>156205810X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>9BoDAAAACAAJ</id>
+      <url>http://books.google.com/books?id=9BoDAAAACAAJ</url>
+      <title>Teach Yourself Beginner&apos;s Chinese Script</title>
+      <contributor>Elizabeth Scurfield, Song Lianyi</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0071419837</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OR-jJwAACAAJ</id>
+      <url>http://books.google.com/books?id=OR-jJwAACAAJ</url>
+      <title>Sense-Making Methodology Reader: Selected Writings of Brenda Dervin</title>
+      <contributor>Brenda Dervin, Lois Foreman-Wernet, Eric Lauterbach</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1572735090</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OYc4HgAACAAJ</id>
+      <url>http://books.google.com/books?id=OYc4HgAACAAJ</url>
+      <title>Women, Fire, and Dangerous Things: What Categories Reveal about the Mind</title>
+      <contributor>George Lakoff</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0226468046</value>
+      </identifier>
+    </book>
+    <book>
+      <id>wnYFAAAACAAJ</id>
+      <url>http://books.google.com/books?id=wnYFAAAACAAJ</url>
+      <title>The Dell Book of Logic Problems</title>
+      <contributor>Rosalind Moore, Dell Magazine Editors, Mary Ann Kennedy</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0440518911</value>
+      </identifier>
+    </book>
+    <book>
+      <id>mVeTuaRwWssC</id>
+      <url>http://books.google.com/books?id=mVeTuaRwWssC</url>
+      <title>Logic, Induction and Sets</title>
+      <contributor>Thomas Forster</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0521533619</value>
+      </identifier>
+    </book>
+    <book>
+      <id>9dnyAAAACAAJ</id>
+      <url>http://books.google.com/books?id=9dnyAAAACAAJ</url>
+      <title>As árvores de conhecimentos</title>
+      <contributor>Pierre Lévy, Michel Authier</contributor>
+    </book>
+    <book>
+      <id>qSy5Rwo_T-sC</id>
+      <url>http://books.google.com/books?id=qSy5Rwo_T-sC</url>
+      <title>Logic with Trees: An Introduction to Symbolic Logic</title>
+      <contributor>Colin Howson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0415133424</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OM3DvakML-MC</id>
+      <url>http://books.google.com/books?id=OM3DvakML-MC</url>
+      <title>Information Architecture for the World Wide Web</title>
+      <contributor>Louis Rosenfeld, Peter Morville</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596000359</value>
+      </identifier>
+    </book>
+    <book>
+      <id>jxD9My-g1xQC</id>
+      <url>http://books.google.com/books?id=jxD9My-g1xQC</url>
+      <title>Biblioteca</title>
+      <contributor>Luís Milanesi</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8574801186</value>
+      </identifier>
+    </book>
+    <book>
+      <id>qkeLnrvLDwIC</id>
+      <url>http://books.google.com/books?id=qkeLnrvLDwIC</url>
+      <title>Information Architecture: Blueprints for the Web</title>
+      <contributor>Christina Wodtke</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735712506</value>
+      </identifier>
+    </book>
+    <book>
+      <id>fMYdAAAACAAJ</id>
+      <url>http://books.google.com/books?id=fMYdAAAACAAJ</url>
+      <title>A busca da língua perfeita na cultura européia</title>
+      <contributor>Umberto Eco, Antonio Angonese</contributor>
+    </book>
+    <book>
+      <id>wwcT08lk-DcC</id>
+      <url>http://books.google.com/books?id=wwcT08lk-DcC</url>
+      <title>Beyond Java</title>
+      <contributor>Bruce Tate</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596100949</value>
+      </identifier>
+    </book>
+    <book>
+      <id>dpFlAAAACAAJ</id>
+      <url>http://books.google.com/books?id=dpFlAAAACAAJ</url>
+      <title>Best of Ruby Quiz</title>
+      <contributor>James Edward Gray</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0976694077</value>
+      </identifier>
+    </book>
+    <book>
+      <id>rimKvq_oOpkC</id>
+      <url>http://books.google.com/books?id=rimKvq_oOpkC</url>
+      <title>Ruby</title>
+      <contributor>Eustáquio Rangel de Oliveira Jr.</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8574522619</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Iy8bkW1s5HgC</id>
+      <url>http://books.google.com/books?id=Iy8bkW1s5HgC</url>
+      <title>Smarty PHP Template Programming and Applications: PHP Template Programming and Applications: a Step-by-step Guide to Building PHP Web Sites and Applications Using the Smarty Templeting Engine</title>
+      <contributor>Hasin Hayder, Joao Prado Maia, L. Gheorge</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>190481140X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>u2jfsWwajfgC</id>
+      <url>http://books.google.com/books?id=u2jfsWwajfgC</url>
+      <title>Ambient Findability: What We Find Changes who We Become</title>
+      <contributor>Peter Morville</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596007655</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6qdQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=6qdQAAAAMAAJ</url>
+      <title>Enterprise Integration with Ruby: A Pragmatic Guide</title>
+      <contributor>Maik Schmidt</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0976694069</value>
+      </identifier>
+    </book>
+    <book>
+      <id>tR5u_k6vzFgC</id>
+      <url>http://books.google.com/books?id=tR5u_k6vzFgC</url>
+      <title>JavaからRubyへ: マネージャのための実践移行ガイド</title>
+      <contributor>ブルース・A. テイト, Bruce A. Tate</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>4873113202</value>
+      </identifier>
+    </book>
+    <book>
+      <id>mZZQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=mZZQAAAAMAAJ</url>
+      <title>Rails Recipes: Pragmatic Programmers</title>
+      <contributor>Chad Fowler</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0977616606</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bJkznhZBG6gC</id>
+      <url>http://books.google.com/books?id=bJkznhZBG6gC</url>
+      <title>Ruby Cookbook</title>
+      <contributor>Lucas Carlson, Leonard Richardson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596523696</value>
+      </identifier>
+    </book>
+    <book>
+      <id>n6TsAAAACAAJ</id>
+      <url>http://books.google.com/books?id=n6TsAAAACAAJ</url>
+      <title>Imagemagick Tricks: Web Image Effects from the Command Line And Php</title>
+      <contributor>Sohail Salehi</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1904811868</value>
+      </identifier>
+    </book>
+    <book>
+      <id>o9eRAAAACAAJ</id>
+      <url>http://books.google.com/books?id=o9eRAAAACAAJ</url>
+      <title>Ruby for Rails: Ruby Techniques for Rails Developers</title>
+      <contributor>David A. Black, David Heinemeier Hansson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1932394699</value>
+      </identifier>
+    </book>
+    <book>
+      <id>VRpTAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=VRpTAAAAMAAJ</url>
+      <title>Agile Web Development with Rails</title>
+      <contributor>David Thomas, Dave Thomas, David Heinemeier Hansson, Leon Breedt, Pragmatic Programmers (Firma), Mike Clark, Andreas Schwarz, Justin Gehtland, James Duncan Davidson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0977616630</value>
+      </identifier>
+    </book>
+    <book>
+      <id>8LXOAAAACAAJ</id>
+      <url>http://books.google.com/books?id=8LXOAAAACAAJ</url>
+      <title>Programming Ruby: The Pragmatic Programmers&apos; Guide</title>
+      <contributor>David Thomas, Chad Fowler, Andrew Hunt</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0974514055</value>
+      </identifier>
+    </book>
+    <book>
+      <id>E7xXJgAACAAJ</id>
+      <url>http://books.google.com/books?id=E7xXJgAACAAJ</url>
+      <title>The Ruby Way</title>
+      <contributor>Hal Fulton</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0672328844</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pUPX8joph10C</id>
+      <url>http://books.google.com/books?id=pUPX8joph10C</url>
+      <title>Ruby on Rails: Up and Running</title>
+      <contributor>Bruce Tate, Curt Hibbs</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596101325</value>
+      </identifier>
+    </book>
+    <book>
+      <id>1MsETFPD3I0C</id>
+      <url>http://books.google.com/books?id=1MsETFPD3I0C</url>
+      <title>Refactoring: Improving the Design of Existing Code</title>
+      <contributor>Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201485672</value>
+      </identifier>
+    </book>
+    <book>
+      <id>_SxH8Ffryw0C</id>
+      <url>http://books.google.com/books?id=_SxH8Ffryw0C</url>
+      <title>What every software manager must know to succeed with object technology</title>
+      <contributor>John D. Williams</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0132276046</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Lp9zIQAACAAJ</id>
+      <url>http://books.google.com/books?id=Lp9zIQAACAAJ</url>
+      <title>Managing Your Move to Object Technology: Guidelines and Strategies for a Smooth Transition</title>
+      <contributor>Barry McGibbon</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1884842151</value>
+      </identifier>
+    </book>
+    <book>
+      <id>qgpo4IeEIPUC</id>
+      <url>http://books.google.com/books?id=qgpo4IeEIPUC</url>
+      <title>AspectJ in Action: Practical Aspect-oriented Programming</title>
+      <contributor>Ramnivas Laddad</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1930110936</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0tJQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=0tJQAAAAMAAJ</url>
+      <title>Succeeding with Objects: Decision Frameworks for Project Management</title>
+      <contributor>Adele Goldberg, Kenneth S. Rubin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201628783</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pnPPzqeirhYC</id>
+      <url>http://books.google.com/books?id=pnPPzqeirhYC</url>
+      <title>Zero: The Biography of a Dangerous Idea</title>
+      <contributor>Charles Seife, Matt Zimet</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140296476</value>
+      </identifier>
+    </book>
+    <book>
+      <id>240iHgAACAAJ</id>
+      <url>http://books.google.com/books?id=240iHgAACAAJ</url>
+      <title>Startup: A Silicon Valley Adventure</title>
+      <contributor>Jerry Kaplan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0395711339</value>
+      </identifier>
+    </book>
+    <book>
+      <id>W4jHAAAACAAJ</id>
+      <url>http://books.google.com/books?id=W4jHAAAACAAJ</url>
+      <title>The Nurnberg Funnel: Designing Minimalist Instruction for Practical Computer Skill</title>
+      <contributor>John M. Carroll</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262031639</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0fHvAAAACAAJ</id>
+      <url>http://books.google.com/books?id=0fHvAAAACAAJ</url>
+      <title>Computer Graphics</title>
+      <contributor>Francis S. Hill</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0023548568</value>
+      </identifier>
+    </book>
+    <book>
+      <id>_iCMAAAACAAJ</id>
+      <url>http://books.google.com/books?id=_iCMAAAACAAJ</url>
+      <title>Computer Graphics: Principles and Practice</title>
+      <contributor>James D. Foley</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201121107</value>
+      </identifier>
+    </book>
+    <book>
+      <id>hzJzHgAACAAJ</id>
+      <url>http://books.google.com/books?id=hzJzHgAACAAJ</url>
+      <title>The Penguin Dictionary of Curious and Interesting Geometry</title>
+      <contributor>David Wells, John Sharp</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140118136</value>
+      </identifier>
+    </book>
+    <book>
+      <id>_4ZMC_QBAC4C</id>
+      <url>http://books.google.com/books?id=_4ZMC_QBAC4C</url>
+      <title>Andrew Glassner&apos;s Notebook: Recreational Computer Graphics</title>
+      <contributor>Andrew S. Glassner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1558605983</value>
+      </identifier>
+    </book>
+    <book>
+      <id>uobgU9AltAsC</id>
+      <url>http://books.google.com/books?id=uobgU9AltAsC</url>
+      <title>Andrew Glassner&apos;s Other Notebook: Further Recreations in Computer Graphics</title>
+      <contributor>Andrew S. Glassner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1568811713</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Ya9AaQHaV4kC</id>
+      <url>http://books.google.com/books?id=Ya9AaQHaV4kC</url>
+      <title>Morphs, Mallards &amp; Montages: Computer-aided Imagination</title>
+      <contributor>Andrew S. Glassner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1568812310</value>
+      </identifier>
+    </book>
+    <book>
+      <id>PBQNHAAACAAJ</id>
+      <url>http://books.google.com/books?id=PBQNHAAACAAJ</url>
+      <title>OpenGL Library</title>
+      <contributor>Dave Shreiner, Randi J Rost, OpenGL Architecture Review Board</contributor>
+    </book>
+    <book>
+      <id>5dMbAgAACAAJ</id>
+      <url>http://books.google.com/books?id=5dMbAgAACAAJ</url>
+      <title>The Official Blender Gamekit: Interactive 3-D for Artists</title>
+      <contributor>Ton Roosendaal, Carsten Wartmann</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1593270046</value>
+      </identifier>
+    </book>
+    <book>
+      <id>NwIbWrnyHeYC</id>
+      <url>http://books.google.com/books?id=NwIbWrnyHeYC</url>
+      <title>Learning to Program with Alice</title>
+      <contributor>Wanda Dann, Stephen Cooper, Randy Pausch</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0131872893</value>
+      </identifier>
+    </book>
+    <book>
+      <id>EAXTEPE9rj8C</id>
+      <url>http://books.google.com/books?id=EAXTEPE9rj8C</url>
+      <title>Introduction to Computing and Programming in Python: A Multimedia Approach</title>
+      <contributor>Mark Guzdial</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0131176552</value>
+      </identifier>
+    </book>
+    <book>
+      <id>K8P1rX8T4kYC</id>
+      <url>http://books.google.com/books?id=K8P1rX8T4kYC</url>
+      <title>Turtles, Termites, and Traffic Jams: Explorations in Massively Parallel Microworlds</title>
+      <contributor>Mitchel Resnick</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262680939</value>
+      </identifier>
+    </book>
+    <book>
+      <id>gi1FAgAACAAJ</id>
+      <url>http://books.google.com/books?id=gi1FAgAACAAJ</url>
+      <title>The Magic Machine: A Handbook of Computer Sorcery</title>
+      <contributor>A. K. Dewdney</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0716721449</value>
+      </identifier>
+    </book>
+    <book>
+      <id>KO9SAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=KO9SAAAAMAAJ</url>
+      <title>Information Architecture for the World Wide Web</title>
+      <contributor>Louis Rosenfeld, Peter Morville</contributor>
+    </book>
+    <book>
+      <id>4-5RIQAACAAJ</id>
+      <url>http://books.google.com/books?id=4-5RIQAACAAJ</url>
+      <title>Visual Programming</title>
+      <contributor>Nan Shu</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0442011644</value>
+      </identifier>
+    </book>
+    <book>
+      <id>u9xnAAAACAAJ</id>
+      <url>http://books.google.com/books?id=u9xnAAAACAAJ</url>
+      <title>Guidelines for Screen Design</title>
+      <contributor>Christopher Rivlin, Robert Lewis, Rachel Davies-Cooper</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0632026863</value>
+      </identifier>
+    </book>
+    <book>
+      <id>NedQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=NedQAAAAMAAJ</url>
+      <title>Computers as Theatre</title>
+      <contributor>Brenda Laurel</contributor>
+    </book>
+    <book>
+      <id>UKBQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=UKBQAAAAMAAJ</url>
+      <title>Tog on Software Design</title>
+      <contributor>Bruce Tognazzini</contributor>
+    </book>
+    <book>
+      <id>bCwkAAAACAAJ</id>
+      <url>http://books.google.com/books?id=bCwkAAAACAAJ</url>
+      <title>Género chat, o, cómo la etnografía Pusi un pie en el ciberespacio</title>
+      <contributor>Joan Mayans i Planells</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8474325722</value>
+      </identifier>
+    </book>
+    <book>
+      <id>GqUiAAAACAAJ</id>
+      <url>http://books.google.com/books?id=GqUiAAAACAAJ</url>
+      <title>Cultura da interface como o computador transforma nossa maneira de criar e comunicar</title>
+      <contributor>Steven Johnson</contributor>
+    </book>
+    <book>
+      <id>7aslAAAACAAJ</id>
+      <url>http://books.google.com/books?id=7aslAAAACAAJ</url>
+      <title>Release 2.0: A Design for Living in the Digital Age</title>
+      <contributor>Esther Dyson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0767900111</value>
+      </identifier>
+    </book>
+    <book>
+      <id>m6VQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=m6VQAAAAMAAJ</url>
+      <title>Writing Compilers and Interpreters: An Applied Approach</title>
+      <contributor>Ronald Mak</contributor>
+    </book>
+    <book>
+      <id>PfeFHgAACAAJ</id>
+      <url>http://books.google.com/books?id=PfeFHgAACAAJ</url>
+      <title>Getting Things Done: The Art of Stress-Free Productivity</title>
+      <contributor>David Allen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0670899240</value>
+      </identifier>
+    </book>
+    <book>
+      <id>820EAAAACAAJ</id>
+      <url>http://books.google.com/books?id=820EAAAACAAJ</url>
+      <title>The Tao of I Ching: Way to Divination</title>
+      <contributor>Tsung Hwa Jou, Tsung Jou, Jou Tsung Hwa</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0804814236</value>
+      </identifier>
+    </book>
+    <book>
+      <id>UgtTAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=UgtTAAAAMAAJ</url>
+      <title>Internetworking With Tcp/Ip</title>
+      <contributor>Douglas Comer, David L. Stevens, Douglas Comer</contributor>
+    </book>
+    <book>
+      <id>azdCHgAACAAJ</id>
+      <url>http://books.google.com/books?id=azdCHgAACAAJ</url>
+      <title>E-mail Security: How to Keep Your Electronic Messages Private</title>
+      <contributor>Bruce Schneier</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>047105318X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ZUcAAAAACAAJ</id>
+      <url>http://books.google.com/books?id=ZUcAAAAACAAJ</url>
+      <title>The Electronic Privacy Papers: Documents on the Battle for Privacy in the Age of Surveillance</title>
+      <contributor>Bruce Schneier, David Banisar</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471122971</value>
+      </identifier>
+    </book>
+    <book>
+      <id>i9pTAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=i9pTAAAAMAAJ</url>
+      <title>The Animation Book: A Complete Guide to Animated Filmmaking, from Filp-books to Sound Cartoons</title>
+      <contributor>Kit Laybourne</contributor>
+    </book>
+    <book>
+      <id>yJ5FAAAACAAJ</id>
+      <url>http://books.google.com/books?id=yJ5FAAAACAAJ</url>
+      <title>Introduction To Logic</title>
+      <contributor>Irving M. Copi, Carl Cohen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0131898345</value>
+      </identifier>
+    </book>
+    <book>
+      <id>hu6a8Z2e-i4C</id>
+      <url>http://books.google.com/books?id=hu6a8Z2e-i4C</url>
+      <title>Macintosh Human Interface Guidelines</title>
+      <contributor>Apple Computer, Inc, Apple Computer Inc</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201622165</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ratQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=ratQAAAAMAAJ</url>
+      <title>Inside Macintosh</title>
+      <contributor>Caroline Rose, Bradley Hacker, Apple Computer, Inc</contributor>
+    </book>
+    <book>
+      <id>3CN9AAAACAAJ</id>
+      <url>http://books.google.com/books?id=3CN9AAAACAAJ</url>
+      <title>The Heart Rate Monitor Book</title>
+      <contributor>Sally Edwards</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0963463306</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OpJ_0zpF7jIC</id>
+      <url>http://books.google.com/books?id=OpJ_0zpF7jIC</url>
+      <title>El lenguaje de programación C: [con base en el ANSI C]</title>
+      <contributor>Brian W. Kernighan, Kernighan, Dennis M. Ritchie, Néstor Gómez Muñoz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>9688802050</value>
+      </identifier>
+    </book>
+    <book>
+      <id>4Mfe4sAMFUYC</id>
+      <url>http://books.google.com/books?id=4Mfe4sAMFUYC</url>
+      <title>C in a Nutshell: A Desktop Quick Reference</title>
+      <contributor>Peter Prinz, Tony Crawford</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596006977</value>
+      </identifier>
+    </book>
+    <book>
+      <id>78tQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=78tQAAAAMAAJ</url>
+      <title>Data Crunching: Solve Everyday Problems Using Java, Python, and More</title>
+      <contributor>Greg Wilson, Pragmatic Programmers (Firm)</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0974514071</value>
+      </identifier>
+    </book>
+    <book>
+      <id>nKUJKu6MtRQC</id>
+      <url>http://books.google.com/books?id=nKUJKu6MtRQC</url>
+      <title>The Business and Economics of Linux and Open Source</title>
+      <contributor>Martin Fink</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0130476773</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0vbr7xvvzjgC</id>
+      <url>http://books.google.com/books?id=0vbr7xvvzjgC</url>
+      <title>Producing Open Source Software: How to Run a Successful Free Software Project</title>
+      <contributor>Karl Fogel, Karl Franz Fogel</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596007590</value>
+      </identifier>
+    </book>
+    <book>
+      <id>poFQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=poFQAAAAMAAJ</url>
+      <title>The UNIX Programming Environment</title>
+      <contributor>Brian W. Kernighan, Rob Pike</contributor>
+    </book>
+    <book>
+      <id>to6M9_dbjosC</id>
+      <url>http://books.google.com/books?id=to6M9_dbjosC</url>
+      <title>The practice of programming</title>
+      <contributor>Brian W. Kernighan, Rob Pike</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>020161586X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>i_LNAAAACAAJ</id>
+      <url>http://books.google.com/books?id=i_LNAAAACAAJ</url>
+      <title>Hypertext in Hypertext: The Convergence of Contemporary Critical Theory and Technology</title>
+      <contributor>Professor George P Landow</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0801848695</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ZYyfAAAACAAJ</id>
+      <url>http://books.google.com/books?id=ZYyfAAAACAAJ</url>
+      <title>The Analytical Engine: An Introduction to Computer Science Using ToolBook</title>
+      <contributor>Rick Decker, Stuart Hirshfield</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0534140467</value>
+      </identifier>
+    </book>
+    <book>
+      <id>XaUGAAAACAAJ</id>
+      <url>http://books.google.com/books?id=XaUGAAAACAAJ</url>
+      <title>Programming Languages: An Interpreter-Based Approach</title>
+      <contributor>Samuel N. Kamin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201068249</value>
+      </identifier>
+    </book>
+    <book>
+      <id>N-hoAAAACAAJ</id>
+      <url>http://books.google.com/books?id=N-hoAAAACAAJ</url>
+      <title>Introdução à ciência da computação com Java e orientação a objetos</title>
+      <contributor>Fabio Kon, Alfredo Goldman, Paulo J Silva e Silva</contributor>
+    </book>
+    <book>
+      <id>HMF4GwAACAAJ</id>
+      <url>http://books.google.com/books?id=HMF4GwAACAAJ</url>
+      <title>The Tinkertoy Computer and Other Machinations</title>
+      <contributor>A. K. Dewdney</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0716724898</value>
+      </identifier>
+    </book>
+    <book>
+      <id>gFgnde_vwMAC</id>
+      <url>http://books.google.com/books?id=gFgnde_vwMAC</url>
+      <title>Test-driven Development: By Example</title>
+      <contributor>Kent Beck</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0321146530</value>
+      </identifier>
+    </book>
+    <book>
+      <id>sw5XAgAACAAJ</id>
+      <url>http://books.google.com/books?id=sw5XAgAACAAJ</url>
+      <title>Algoritmos e estruturas de dados</title>
+      <contributor>Ângelo de Moura Guimarães, Newton Alberto de Castilho Lages</contributor>
+    </book>
+    <book>
+      <id>L5b4AwAACAAJ</id>
+      <url>http://books.google.com/books?id=L5b4AwAACAAJ</url>
+      <title>Lógica de programação a construção de Algoritmos e estrutura de dados</title>
+      <contributor>André Luiz Villar Forbellone, Henri Frederico Eberspächer</contributor>
+    </book>
+    <book>
+      <id>bA7GKQAACAAJ</id>
+      <url>http://books.google.com/books?id=bA7GKQAACAAJ</url>
+      <title>How to Solve It: A New Aspect of Mathematical Method</title>
+      <contributor>G. Polya</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>069111966X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>uE4bHgAACAAJ</id>
+      <url>http://books.google.com/books?id=uE4bHgAACAAJ</url>
+      <title>The Adult Learner: A Neglected Species</title>
+      <contributor>Malcolm Shepherd Knowles</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0872010740</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bvO8AAAACAAJ</id>
+      <url>http://books.google.com/books?id=bvO8AAAACAAJ</url>
+      <title>Physics: Foundations and Applications : Numerical Calculation Supplement to Accompany Eisberg and Lerner.</title>
+      <contributor>Robert Martin Eisberg</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0070191204</value>
+      </identifier>
+    </book>
+    <book>
+      <id>-QTFKAAACAAJ</id>
+      <url>http://books.google.com/books?id=-QTFKAAACAAJ</url>
+      <title>Physics: Foundations and Applications</title>
+      <contributor>Robert Martin Eisberg, Lawrence S. Lerner</contributor>
+      <identifier>
+        <type>LCCN</type>
+        <value>81001428</value>
+      </identifier>
+    </book>
+    <book>
+      <id>HuPJqvWtedcC</id>
+      <url>http://books.google.com/books?id=HuPJqvWtedcC</url>
+      <title>Practical Electronics for Inventors</title>
+      <contributor>Paul Scherz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0070580782</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Ksa2pWfNnvkC</id>
+      <url>http://books.google.com/books?id=Ksa2pWfNnvkC</url>
+      <title>电子学课程指导与实验</title>
+      <contributor>海斯</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>730207450X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bkOMDgwFA28C</id>
+      <url>http://books.google.com/books?id=bkOMDgwFA28C</url>
+      <title>The Art of Electronics</title>
+      <contributor>Paul Horowitz, Horowitz, Winfield Hill</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0521370957</value>
+      </identifier>
+    </book>
+    <book>
+      <id>CFG3AAAACAAJ</id>
+      <url>http://books.google.com/books?id=CFG3AAAACAAJ</url>
+      <title>Electronic Sensor Circuits And Projects</title>
+      <contributor>Forrest M. Mims</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0945053312</value>
+      </identifier>
+    </book>
+    <book>
+      <id>y3ZBAAAACAAJ</id>
+      <url>http://books.google.com/books?id=y3ZBAAAACAAJ</url>
+      <title>Electronic Board Games</title>
+      <contributor>Roy Bebbington</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0859343502</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Jr8u8opwUx4C</id>
+      <url>http://books.google.com/books?id=Jr8u8opwUx4C</url>
+      <title>Physics for Game Developers: Enriching Game Content with Physic-based Realism</title>
+      <contributor>David M. Bourg</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596000065</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ZBcrAAAACAAJ</id>
+      <url>http://books.google.com/books?id=ZBcrAAAACAAJ</url>
+      <title>How Computers Really Work</title>
+      <contributor>Milind S. Pandit</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0078819369</value>
+      </identifier>
+    </book>
+    <book>
+      <id>21xRAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=21xRAAAAMAAJ</url>
+      <title>Computer Simulation in Management Science</title>
+      <contributor>Michael Pidd</contributor>
+    </book>
+    <book>
+      <id>PcEvAAAACAAJ</id>
+      <url>http://books.google.com/books?id=PcEvAAAACAAJ</url>
+      <title>Solving Business Problems by Simulation</title>
+      <contributor>Jan Szymankiewicz, James McDonald, Keith Turner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0070849463</value>
+      </identifier>
+    </book>
+    <book>
+      <id>E8acAAAACAAJ</id>
+      <url>http://books.google.com/books?id=E8acAAAACAAJ</url>
+      <title>Computer Simulation</title>
+      <contributor>Hugh J. Watson, John H. Blackstone</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471503568</value>
+      </identifier>
+    </book>
+    <book>
+      <id>2iJnkaFSojEC</id>
+      <url>http://books.google.com/books?id=2iJnkaFSojEC</url>
+      <title>Computability and Complexity: From a Programming Perspective</title>
+      <contributor>Neil D. Jones</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262100649</value>
+      </identifier>
+    </book>
+    <book>
+      <id>8YV7IAAACAAJ</id>
+      <url>http://books.google.com/books?id=8YV7IAAACAAJ</url>
+      <title>Compilers: Principles, Techniques, and Tools</title>
+      <contributor>Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201100886</value>
+      </identifier>
+    </book>
+    <book>
+      <id>YrzpxNYegEkC</id>
+      <url>http://books.google.com/books?id=YrzpxNYegEkC</url>
+      <title>Lex &amp; Yacc: UNIX Programming Tools</title>
+      <contributor>John R. Levine, Tony Mason, Doug Brown</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565920007</value>
+      </identifier>
+    </book>
+    <book>
+      <id>XIIpJAAACAAJ</id>
+      <url>http://books.google.com/books?id=XIIpJAAACAAJ</url>
+      <title>Writing Interactive Compilers and Interpreters</title>
+      <contributor>Peter John Brown</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471100722</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Z567AAAACAAJ</id>
+      <url>http://books.google.com/books?id=Z567AAAACAAJ</url>
+      <title>Introduction to Compiling Techniques: A First Course Using ANSI C, LEX and YACC</title>
+      <contributor>Jeremy Peter Bennett</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0077072154</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6NdQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=6NdQAAAAMAAJ</url>
+      <title>Applied Cryptography: Protocols, Algorithms, and Source Code in C</title>
+      <contributor>Bruce Schneier</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471128457</value>
+      </identifier>
+    </book>
+    <book>
+      <id>BmuqURW0G5UC</id>
+      <url>http://books.google.com/books?id=BmuqURW0G5UC</url>
+      <title>Computer Science Logo Style</title>
+      <contributor>Brian Harvey</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262581485</value>
+      </identifier>
+    </book>
+    <book>
+      <id>RUBmAAAACAAJ</id>
+      <url>http://books.google.com/books?id=RUBmAAAACAAJ</url>
+      <title>How to Think Like a Computer Scientist: Learning With Python</title>
+      <contributor>Allen Downey, Jeffrey Elkner, Chris Meyers</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0971677506</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OtfEIAAACAAJ</id>
+      <url>http://books.google.com/books?id=OtfEIAAACAAJ</url>
+      <title>Notes from the Metalevel: An Introduction to Computer Composition</title>
+      <contributor>Heinrich Taube</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>9026519753</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0aUhuv7fjxMC</id>
+      <url>http://books.google.com/books?id=0aUhuv7fjxMC</url>
+      <title>The computational beauty of nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation</title>
+      <contributor>Gary William Flake</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262561271</value>
+      </identifier>
+    </book>
+    <book>
+      <id>8dorGwAACAAJ</id>
+      <url>http://books.google.com/books?id=8dorGwAACAAJ</url>
+      <title>Great Ideas in Computer Science: A Gentle Introduction</title>
+      <contributor>Alan W. Biermann</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262023024</value>
+      </identifier>
+    </book>
+    <book>
+      <id>INgCAAAACAAJ</id>
+      <url>http://books.google.com/books?id=INgCAAAACAAJ</url>
+      <title>Data Structures &amp; Algorithms in Java</title>
+      <contributor>Mitchell Waite, Robert Lafore</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1571690956</value>
+      </identifier>
+    </book>
+    <book>
+      <id>JT18HAAACAAJ</id>
+      <url>http://books.google.com/books?id=JT18HAAACAAJ</url>
+      <title>Visual J++</title>
+      <contributor>Michael T. Goodrich, Microsoft Corporation Staff, Roberto Tamassia</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471252190</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Jvc-AAAACAAJ</id>
+      <url>http://books.google.com/books?id=Jvc-AAAACAAJ</url>
+      <title>A PROLOG Primer</title>
+      <contributor>Jean B. Rogers</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201064677</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ug40AAAACAAJ</id>
+      <url>http://books.google.com/books?id=ug40AAAACAAJ</url>
+      <title>Eiffel: An Introduction</title>
+      <contributor>Robert Switzer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0131059092</value>
+      </identifier>
+    </book>
+    <book>
+      <id>djqCHgAACAAJ</id>
+      <url>http://books.google.com/books?id=djqCHgAACAAJ</url>
+      <title>Programming Pearls</title>
+      <contributor>Jon Louis Bentley</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201103311</value>
+      </identifier>
+    </book>
+    <book>
+      <id>TFQ-AAAACAAJ</id>
+      <url>http://books.google.com/books?id=TFQ-AAAACAAJ</url>
+      <title>More Programming Pearls: Confessions of a Coder</title>
+      <contributor>Jon Louis Bentley</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201118890</value>
+      </identifier>
+    </book>
+    <book>
+      <id>1hOdAAAACAAJ</id>
+      <url>http://books.google.com/books?id=1hOdAAAACAAJ</url>
+      <title>Algorithmics: The Spirit of Computing</title>
+      <contributor>David Harel, Roni Rosner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201504014</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OtWbHAAACAAJ</id>
+      <url>http://books.google.com/books?id=OtWbHAAACAAJ</url>
+      <title>Introduction to Algorithms</title>
+      <contributor>Thomas H. Cormen</contributor>
+      <identifier>
+        <type>LCCN</type>
+        <value>2001031277</value>
+      </identifier>
+    </book>
+    <book>
+      <id>zMEBAAAACAAJ</id>
+      <url>http://books.google.com/books?id=zMEBAAAACAAJ</url>
+      <title>Algorithms in C++</title>
+      <contributor>Robert ( Sedgewick</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201361183</value>
+      </identifier>
+    </book>
+    <book>
+      <id>wftS4tj4XFMC</id>
+      <url>http://books.google.com/books?id=wftS4tj4XFMC</url>
+      <title>The scheme programming language: Third Edition</title>
+      <contributor>R. Kent Dybvig</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262541483</value>
+      </identifier>
+    </book>
+    <book>
+      <id>xyO-KLexVnMC</id>
+      <url>http://books.google.com/books?id=xyO-KLexVnMC</url>
+      <title>The Little Schemer</title>
+      <contributor>Daniel P. Friedman, Matthias Felleisen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262560992</value>
+      </identifier>
+    </book>
+    <book>
+      <id>igJRhp0KGn8C</id>
+      <url>http://books.google.com/books?id=igJRhp0KGn8C</url>
+      <title>Simply Scheme: Introducing Computer Science</title>
+      <contributor>Brian Harvey, Matthew Wright, Harold Abelson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262082810</value>
+      </identifier>
+    </book>
+    <book>
+      <id>4J3nAAAACAAJ</id>
+      <url>http://books.google.com/books?id=4J3nAAAACAAJ</url>
+      <title>Sistemas de comércio eletrônico: projeto e desenvolvimento</title>
+      <contributor>Wagner Meira</contributor>
+    </book>
+    <book>
+      <id>52WgHQAACAAJ</id>
+      <url>http://books.google.com/books?id=52WgHQAACAAJ</url>
+      <title>CGI Programming on the World Wide Web</title>
+      <contributor>Shishir Gundavaram</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565921682</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ec5YqoXC5LcC</id>
+      <url>http://books.google.com/books?id=ec5YqoXC5LcC</url>
+      <title>Title Not supplied: Eine Informatik-einführung</title>
+      <contributor>Harold Abelson, Gerald Jay Sussman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>3540423427</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Eg1Tu9Ds8ugC</id>
+      <url>http://books.google.com/books?id=Eg1Tu9Ds8ugC</url>
+      <title>How to Design Programs: An Introduction to Programming and Computing</title>
+      <contributor>Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262062186</value>
+      </identifier>
+    </book>
+    <book>
+      <id>j-tQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=j-tQAAAAMAAJ</url>
+      <title>The Debian System: Concepts and Techniques</title>
+      <contributor>Martin F. Krafft</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1593270690</value>
+      </identifier>
+    </book>
+    <book>
+      <id>tDDb5zRoONwC</id>
+      <url>http://books.google.com/books?id=tDDb5zRoONwC</url>
+      <title>Unix Power Tools</title>
+      <contributor>Shelley Powers, Jerry Peek, Tim O&apos;Reilly, Mike Loukides</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596003307</value>
+      </identifier>
+    </book>
+    <book>
+      <id>vn07AAAACAAJ</id>
+      <url>http://books.google.com/books?id=vn07AAAACAAJ</url>
+      <title>A Practical Guide to Linux</title>
+      <contributor>Mark G. Sobell</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201895498</value>
+      </identifier>
+    </book>
+    <book>
+      <id>DQtRAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=DQtRAAAAMAAJ</url>
+      <title>A Practical Guide to Linux Commands, Editors, and Shell Programming</title>
+      <contributor>Mark G. Sobell</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0131478230</value>
+      </identifier>
+    </book>
+    <book>
+      <id>cNGbObmg6IwC</id>
+      <url>http://books.google.com/books?id=cNGbObmg6IwC</url>
+      <title>Linux annoyances for geeks: Getting the Most Flexible System in the World Just the Way You Want It</title>
+      <contributor>Michael Jang</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596008015</value>
+      </identifier>
+    </book>
+    <book>
+      <id>wXIvheS3r_gC</id>
+      <url>http://books.google.com/books?id=wXIvheS3r_gC</url>
+      <title>Linux in a Nutshell: A Desktop Quick Reference</title>
+      <contributor>Ellen Siever, Stephen Figgins, Aaron Weber</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596004826</value>
+      </identifier>
+    </book>
+    <book>
+      <id>GJluvleykWwC</id>
+      <url>http://books.google.com/books?id=GJluvleykWwC</url>
+      <title>UNIX in a Nutshell: A Desktop Quick Reference for System V Release 4 and Solaris 2.0</title>
+      <contributor>Daniel Gilly, O&apos;Reilly &amp; Associates</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565920015</value>
+      </identifier>
+    </book>
+    <book>
+      <id>WwJVAAAACAAJ</id>
+      <url>http://books.google.com/books?id=WwJVAAAACAAJ</url>
+      <title>Linux Essential Reference</title>
+      <contributor>Ed Petron</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735708525</value>
+      </identifier>
+    </book>
+    <book>
+      <id>B-5SAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=B-5SAAAAMAAJ</url>
+      <title>How to set up and maintain a World Wide Web site: the guide for information providers</title>
+      <contributor>Lincoln D. Stein</contributor>
+    </book>
+    <book>
+      <id>nfpSAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=nfpSAAAAMAAJ</url>
+      <title>Practical Internet Groupware: Building Tools for Collaboration.</title>
+      <contributor>Jon Udell, Tim O&apos;Reilly</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565925378</value>
+      </identifier>
+    </book>
+    <book>
+      <id>CNiJC9LLnpUC</id>
+      <url>http://books.google.com/books?id=CNiJC9LLnpUC</url>
+      <title>Expressões Regulares - Uma Abordagem Divertida</title>
+      <contributor>Aurélio Marinho Jargas</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8575221000</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3b6EHgAACAAJ</id>
+      <url>http://books.google.com/books?id=3b6EHgAACAAJ</url>
+      <title>Mastering Regular Expressions</title>
+      <contributor>Jeffrey E. F. Friedl</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565922573</value>
+      </identifier>
+    </book>
+    <book>
+      <id>qMwGAAAACAAJ</id>
+      <url>http://books.google.com/books?id=qMwGAAAACAAJ</url>
+      <title>The Latex Companions: Basic, Advanced, Graphics, Web</title>
+      <contributor>Michael Goossens, Frank Mittelbach, Leslie Lamport, Sebastian Rahtz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201775913</value>
+      </identifier>
+    </book>
+    <book>
+      <id>B93uJGLZhAoC</id>
+      <url>http://books.google.com/books?id=B93uJGLZhAoC</url>
+      <title>The LaTex Web Companion: Integrating TeX, HTML, and XML</title>
+      <contributor>Michel Goossens, Sebastian Rahtz, Eitan M. Gurari, Ross Moore, Robert S. Sutor</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201433117</value>
+      </identifier>
+    </book>
+    <book>
+      <id>aM4WHgAACAAJ</id>
+      <url>http://books.google.com/books?id=aM4WHgAACAAJ</url>
+      <title>The Whole Internet User&apos;s Guide &amp; Catalog</title>
+      <contributor>Ed Krol</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565920635</value>
+      </identifier>
+    </book>
+    <book>
+      <id>yKBCdiJpaOwC</id>
+      <url>http://books.google.com/books?id=yKBCdiJpaOwC</url>
+      <title>Connecting to the internet: a buyer&apos;s guide</title>
+      <contributor>Susan Estrada, Dale Dougherty</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565920619</value>
+      </identifier>
+    </book>
+    <book>
+      <id>nA9RAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=nA9RAAAAMAAJ</url>
+      <title>FreeBSD Unleashed</title>
+      <contributor>Michael Urban, Brian Tiemann</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0672322064</value>
+      </identifier>
+    </book>
+    <book>
+      <id>j65QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=j65QAAAAMAAJ</url>
+      <title>SOAP: Cross Platform Web Service Development Using XML</title>
+      <contributor>Scott Seely, Kent Sharkey</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0130907634</value>
+      </identifier>
+    </book>
+    <book>
+      <id>2fhSAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=2fhSAAAAMAAJ</url>
+      <title>Managing IMAP</title>
+      <contributor>Dianna Mullet, Kevin Mullet</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>059600012X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>I-wijldTJkIC</id>
+      <url>http://books.google.com/books?id=I-wijldTJkIC</url>
+      <title>Web Design in a Nutshell: A Desktop Quick Reference</title>
+      <contributor>Jennifer Niederst, Jennifer Niederst Robbins</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565925157</value>
+      </identifier>
+    </book>
+    <book>
+      <id>l40nvlrjWL0C</id>
+      <url>http://books.google.com/books?id=l40nvlrjWL0C</url>
+      <title>Programming Web Services with XML-RPC</title>
+      <contributor>Simon St. Laurent, Joe Johnston, Edd Dumbill</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596001193</value>
+      </identifier>
+    </book>
+    <book>
+      <id>kXTXAAAACAAJ</id>
+      <url>http://books.google.com/books?id=kXTXAAAACAAJ</url>
+      <title>Learning the Bash Shell</title>
+      <contributor>Cameron Newham, Bill Rosenblatt</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>156592147X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>67FQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=67FQAAAAMAAJ</url>
+      <title>Learning the UNIX Operating System</title>
+      <contributor>Grace Todino, John Strang, Jerry Peek</contributor>
+    </book>
+    <book>
+      <id>FU7uuHc3oNcC</id>
+      <url>http://books.google.com/books?id=FU7uuHc3oNcC</url>
+      <title>Database in Depth: Relational Theory for Practitioners</title>
+      <contributor>C. J. Date</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596100124</value>
+      </identifier>
+    </book>
+    <book>
+      <id>dFlK6nA-QOEC</id>
+      <url>http://books.google.com/books?id=dFlK6nA-QOEC</url>
+      <title>Agile Database Techniques: Effective Strategies for the Agile Software Developer</title>
+      <contributor>Scott W. Ambler</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471202835</value>
+      </identifier>
+    </book>
+    <book>
+      <id>iO_nAAAACAAJ</id>
+      <url>http://books.google.com/books?id=iO_nAAAACAAJ</url>
+      <title>Database Design for Mere Mortals: A Hands-on Guide to Relational Database Design</title>
+      <contributor>Michael James Hernandez</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201694719</value>
+      </identifier>
+    </book>
+    <book>
+      <id>NE_SAAAACAAJ</id>
+      <url>http://books.google.com/books?id=NE_SAAAACAAJ</url>
+      <title>Mysql</title>
+      <contributor>Paul DuBois</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735709211</value>
+      </identifier>
+    </book>
+    <book>
+      <id>vKlQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=vKlQAAAAMAAJ</url>
+      <title>MySQL and MSQL: Databases for Moderate-sized Organizations &amp; Web Sites</title>
+      <contributor>Randy Jay Yarger, George Reese, Tim King</contributor>
+    </book>
+    <book>
+      <id>uw2lq2o4VbUC</id>
+      <url>http://books.google.com/books?id=uw2lq2o4VbUC</url>
+      <title>Joe Celko&apos;s Trees and Hierarchies in SQL for Smarties: Trees and Hierarchies</title>
+      <contributor>Joe Celko</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1558609202</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Y3uCOQppkUIC</id>
+      <url>http://books.google.com/books?id=Y3uCOQppkUIC</url>
+      <title>SQL in a Nutshell: A Desktop Quick Reference</title>
+      <contributor>Daniel Kline, Brand Hunt</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596004818</value>
+      </identifier>
+    </book>
+    <book>
+      <id>19vqAQAACAAJ</id>
+      <url>http://books.google.com/books?id=19vqAQAACAAJ</url>
+      <title>PostgreSQL: Introduction and Concepts</title>
+      <contributor>Bruce Momjian</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201703319</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3YlCAAAACAAJ</id>
+      <url>http://books.google.com/books?id=3YlCAAAACAAJ</url>
+      <title>Designing Quality Databases With Idef1X Information Models</title>
+      <contributor>Thomas A. Bruce</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0932633188</value>
+      </identifier>
+    </book>
+    <book>
+      <id>9HoIAAAACAAJ</id>
+      <url>http://books.google.com/books?id=9HoIAAAACAAJ</url>
+      <title>A Little SmallTalk</title>
+      <contributor>Timothy Budd</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201106981</value>
+      </identifier>
+    </book>
+    <book>
+      <id>IrG0HQAACAAJ</id>
+      <url>http://books.google.com/books?id=IrG0HQAACAAJ</url>
+      <title>A Taste of Smalltalk</title>
+      <contributor>Ted Kaehler, Dave Patterson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0393955052</value>
+      </identifier>
+    </book>
+    <book>
+      <id>R7ZQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=R7ZQAAAAMAAJ</url>
+      <title>Smalltalk-80: The Language</title>
+      <contributor>Adele Goldberg, David Robson</contributor>
+    </book>
+    <book>
+      <id>Y7FwNB4GV4EC</id>
+      <url>http://books.google.com/books?id=Y7FwNB4GV4EC</url>
+      <title>Kent Beck&apos;s Guide to Better SmallTalk: A Sorted Collection</title>
+      <contributor>Kent Beck</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0521644372</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MjuUAAAACAAJ</id>
+      <url>http://books.google.com/books?id=MjuUAAAACAAJ</url>
+      <title>Smalltalk Best Practice Patterns</title>
+      <contributor>Kent Beck</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>013476904X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0XJNAAAACAAJ</id>
+      <url>http://books.google.com/books?id=0XJNAAAACAAJ</url>
+      <title>Smalltalk V: Practice and Experience</title>
+      <contributor>Wilf R. LaLonde, John R. Pugh</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0138140391</value>
+      </identifier>
+    </book>
+    <book>
+      <id>nYZQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=nYZQAAAAMAAJ</url>
+      <title>Squeak: open personal computing and multimedia</title>
+      <contributor>Mark Guzdial, Kim Rose, Kimberly M. Rose</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0130280917</value>
+      </identifier>
+    </book>
+    <book>
+      <id>TXkIAAAACAAJ</id>
+      <url>http://books.google.com/books?id=TXkIAAAACAAJ</url>
+      <title>Squeak: A Quick Trip to Objectland</title>
+      <contributor>Gene Korienek, Tom Wrensch, Doug Dechow</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201731142</value>
+      </identifier>
+    </book>
+    <book>
+      <id>W8_Une9cbbgC</id>
+      <url>http://books.google.com/books?id=W8_Une9cbbgC</url>
+      <title>Smalltalk, Objects, and Design</title>
+      <contributor>Chamond Liu</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1583484906</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bTkGAAAACAAJ</id>
+      <url>http://books.google.com/books?id=bTkGAAAACAAJ</url>
+      <title>On to Smalltalk</title>
+      <contributor>Patrick Henry Winston</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201498278</value>
+      </identifier>
+    </book>
+    <book>
+      <id>yV0-GwAACAAJ</id>
+      <url>http://books.google.com/books?id=yV0-GwAACAAJ</url>
+      <title>Dr. Dobb&apos;s Essential Hypertalk Handbook</title>
+      <contributor>Michael Swaine</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0934375984</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7zW5-3QO23kC</id>
+      <url>http://books.google.com/books?id=7zW5-3QO23kC</url>
+      <title>Creating Applications with Mozilla: Using XUL, JavaScript, and CSS</title>
+      <contributor>David Boswell, Ian Oeschger, Brian King, Eric Murphy, Pete Collins</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596000529</value>
+      </identifier>
+    </book>
+    <book>
+      <id>sEEDAAAACAAJ</id>
+      <url>http://books.google.com/books?id=sEEDAAAACAAJ</url>
+      <title>Stopping Spam</title>
+      <contributor>Alan Schwartz, Simson Garfinkel</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>156592388X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>eio4QY-wrEkC</id>
+      <url>http://books.google.com/books?id=eio4QY-wrEkC</url>
+      <title>PayPal Hacks: 100 Industrial-Strength Tips &amp; Tools</title>
+      <contributor>Shannon Sofield, Dave Nielsen, Dave Burchell</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596007515</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6hP8IhlqkAsC</id>
+      <url>http://books.google.com/books?id=6hP8IhlqkAsC</url>
+      <title>Web Site Measurement Hacks: Tips and Tools to Help Optimize Your Online Business</title>
+      <contributor>Eric T. Peterson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596009887</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7W18JNOAXocC</id>
+      <url>http://books.google.com/books?id=7W18JNOAXocC</url>
+      <title>Amazon Hacks</title>
+      <contributor>Paul Bausch</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596005423</value>
+      </identifier>
+    </book>
+    <book>
+      <id>eaECC9Km8rAC</id>
+      <url>http://books.google.com/books?id=eaECC9Km8rAC</url>
+      <title>Google Hacks: Tips &amp; Tools for Smarter Searching</title>
+      <contributor>Tara Calishain, Rael Dornfest</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596008570</value>
+      </identifier>
+    </book>
+    <book>
+      <id>0EB9OIFBnFgC</id>
+      <url>http://books.google.com/books?id=0EB9OIFBnFgC</url>
+      <title>Practical Programming in TCL and TK</title>
+      <contributor>Brent B. Welch, Ken Jones, Jeffrey Hobbs</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0130385603</value>
+      </identifier>
+    </book>
+    <book>
+      <id>2_hQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=2_hQAAAAMAAJ</url>
+      <title>Effective Tcl/Tk Programming: Writing Better Programs with Tcl and Tk</title>
+      <contributor>Mark Harrison, Michael McLennan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201634740</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bINnAAAACAAJ</id>
+      <url>http://books.google.com/books?id=bINnAAAACAAJ</url>
+      <title>Software Requirements</title>
+      <contributor>Karl Eugene Wiegers</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735606315</value>
+      </identifier>
+    </book>
+    <book>
+      <id>snmJepzoNfgC</id>
+      <url>http://books.google.com/books?id=snmJepzoNfgC</url>
+      <title>Shell Script Profissional</title>
+      <contributor>Aurélio Marinho Jargas</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8575221523</value>
+      </identifier>
+    </book>
+    <book>
+      <id>mutaHQAACAAJ</id>
+      <url>http://books.google.com/books?id=mutaHQAACAAJ</url>
+      <title>Software Engineering: A Practitioner&apos;s Approach</title>
+      <contributor>Roger S. Pressman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0077079361</value>
+      </identifier>
+    </book>
+    <book>
+      <id>qM4Yzf8K9hwC</id>
+      <url>http://books.google.com/books?id=qM4Yzf8K9hwC</url>
+      <title>Rapid Development: Taming Wild Software Schedules</title>
+      <contributor>Steve M. McConnell</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1556159005</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pKZQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=pKZQAAAAMAAJ</url>
+      <title>The Capability Maturity Model: Guidelines for Improving the Software Process</title>
+      <contributor>Mark C. Paulk, Charles V. Weber</contributor>
+    </book>
+    <book>
+      <id>_g0te-9WuLYC</id>
+      <url>http://books.google.com/books?id=_g0te-9WuLYC</url>
+      <title>Introduction to the Personal Software Process: [PSP]</title>
+      <contributor>Watts S. Humphrey</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201548097</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6wOeAAAACAAJ</id>
+      <url>http://books.google.com/books?id=6wOeAAAACAAJ</url>
+      <title>Creating a Software Engineering Culture</title>
+      <contributor>Karl E. Wiegers</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0932633331</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Pa1QAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=Pa1QAAAAMAAJ</url>
+      <title>Cascading Style Sheets: The Definitive Guide</title>
+      <contributor>Eric A. Meyer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565926226</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7rZQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=7rZQAAAAMAAJ</url>
+      <title>JavaScript: The Definitive Guide</title>
+      <contributor>David Flanagan</contributor>
+    </book>
+    <book>
+      <id>sYoAt65E1VoC</id>
+      <url>http://books.google.com/books?id=sYoAt65E1VoC</url>
+      <title>JavaScript and DHTML Cookbook: Solutions and Example for Web Programmers</title>
+      <contributor>Danny Goodman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596004672</value>
+      </identifier>
+    </book>
+    <book>
+      <id>dtqqcgFbKNsC</id>
+      <url>http://books.google.com/books?id=dtqqcgFbKNsC</url>
+      <title>Dynamic HTML: The Definitive Reference</title>
+      <contributor>Danny Goodman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596003161</value>
+      </identifier>
+    </book>
+    <book>
+      <id>VTmXAT702S4C</id>
+      <url>http://books.google.com/books?id=VTmXAT702S4C</url>
+      <title>Foundations of Ajax</title>
+      <contributor>Ryan Asleson, Nathaniel T. Schutta</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590595823</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bAc5HwAACAAJ</id>
+      <url>http://books.google.com/books?id=bAc5HwAACAAJ</url>
+      <title>Jquery in Action</title>
+      <contributor>Bear Bibeault, Yehuda Katz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1933988355</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ZyQ6AAAACAAJ</id>
+      <url>http://books.google.com/books?id=ZyQ6AAAACAAJ</url>
+      <title>Web Standards Solutions: The Markup and Style Handbook</title>
+      <contributor>Dan Cederholm</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590593812</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Mp1KAAAACAAJ</id>
+      <url>http://books.google.com/books?id=Mp1KAAAACAAJ</url>
+      <title>CSS mastery: advanced web standards solutions</title>
+      <contributor>Andy Budd, Cameron Moll, Simon Collison</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590596145</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Nw7uxO1jow8C</id>
+      <url>http://books.google.com/books?id=Nw7uxO1jow8C</url>
+      <title>XML: précis et concis</title>
+      <contributor>Robert Eckstein, Michel Casabianca, James Guérin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>2841771040</value>
+      </identifier>
+    </book>
+    <book>
+      <id>gFo1AAAACAAJ</id>
+      <url>http://books.google.com/books?id=gFo1AAAACAAJ</url>
+      <title>CVS Pocket Reference</title>
+      <contributor>Gregor N. Purdy</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596000030</value>
+      </identifier>
+    </book>
+    <book>
+      <id>hEAumeswuV4C</id>
+      <url>http://books.google.com/books?id=hEAumeswuV4C</url>
+      <title>CSS Pocket Reference</title>
+      <contributor>Eric A. Meyer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596001207</value>
+      </identifier>
+    </book>
+    <book>
+      <id>dOIlEeG1v4UC</id>
+      <url>http://books.google.com/books?id=dOIlEeG1v4UC</url>
+      <title>HTTP Pocket Reference: Hypertext Transfer Protocol</title>
+      <contributor>Clinton Wong, Linda Mui</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565928628</value>
+      </identifier>
+    </book>
+    <book>
+      <id>V5A9AAAACAAJ</id>
+      <url>http://books.google.com/books?id=V5A9AAAACAAJ</url>
+      <title>Python Pocket Reference</title>
+      <contributor>Mark Lutz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565925009</value>
+      </identifier>
+    </book>
+    <book>
+      <id>FqNQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=FqNQAAAAMAAJ</url>
+      <title>Joe Celko&apos;s SQL for smarties: Advanced SQL Programming</title>
+      <contributor>Joe Celko</contributor>
+    </book>
+    <book>
+      <id>VCsIPDZVQAIC</id>
+      <url>http://books.google.com/books?id=VCsIPDZVQAIC</url>
+      <title>Understanding the New SQL: A Complete Guide</title>
+      <contributor>Jim Melton, Alan R. Simon</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1558602453</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MRhSAo5ikJ4C</id>
+      <url>http://books.google.com/books?id=MRhSAo5ikJ4C</url>
+      <title>Object-oriented Database Design Clearly Explained</title>
+      <contributor>Jan L. Harrington</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0123264286</value>
+      </identifier>
+    </book>
+    <book>
+      <id>8ykDAAAACAAJ</id>
+      <url>http://books.google.com/books?id=8ykDAAAACAAJ</url>
+      <title>XSLT Programmer&apos;s Reference</title>
+      <contributor>Michael Kay</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1861003129</value>
+      </identifier>
+    </book>
+    <book>
+      <id>_qwcAAAACAAJ</id>
+      <url>http://books.google.com/books?id=_qwcAAAACAAJ</url>
+      <title>RESTful Web Services</title>
+      <contributor>Leonard Richardson, Sam Ruby</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596529260</value>
+      </identifier>
+    </book>
+    <book>
+      <id>cUDDAQAACAAJ</id>
+      <url>http://books.google.com/books?id=cUDDAQAACAAJ</url>
+      <title>Plone Content Management Essentials</title>
+      <contributor>Julie C. Meloni</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0672326876</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ZEP5jnLw1ZoC</id>
+      <url>http://books.google.com/books?id=ZEP5jnLw1ZoC</url>
+      <title>The Definitive Guide to Plone</title>
+      <contributor>Andy McKay, Alan Runyan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590593294</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Bh-49ZS7QbUC</id>
+      <url>http://books.google.com/books?id=Bh-49ZS7QbUC</url>
+      <title>Zope: Web Application Development and Content Management</title>
+      <contributor>Steven Spicklemire, Kevin Friedly, Kim Brand</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735711100</value>
+      </identifier>
+    </book>
+    <book>
+      <id>yGqOAAAACAAJ</id>
+      <url>http://books.google.com/books?id=yGqOAAAACAAJ</url>
+      <title>The Zope Book</title>
+      <contributor>Amos Latteier, Michel Pelletier</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735711372</value>
+      </identifier>
+    </book>
+    <book>
+      <id>1yAHAAAACAAJ</id>
+      <url>http://books.google.com/books?id=1yAHAAAACAAJ</url>
+      <title>The Book of Zope: How to Build and Deliver Web Applications</title>
+      <contributor>Beehive (Internet Service Provider)</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1886411573</value>
+      </identifier>
+    </book>
+    <book>
+      <id>iOBIfcpf55cC</id>
+      <url>http://books.google.com/books?id=iOBIfcpf55cC</url>
+      <title>Web component development with Zope 3: With 39 Figures and 10 Tables</title>
+      <contributor>Philipp von Weitershausen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>3540223592</value>
+      </identifier>
+    </book>
+    <book>
+      <id>UMW9urtVWKgC</id>
+      <url>http://books.google.com/books?id=UMW9urtVWKgC</url>
+      <title>The Definitive Guide to Django: Web Development Done Right</title>
+      <contributor>Adrian Holovaty, Jacob Kaplan-Moss</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590597257</value>
+      </identifier>
+    </book>
+    <book>
+      <id>S_uTGAAACAAJ</id>
+      <url>http://books.google.com/books?id=S_uTGAAACAAJ</url>
+      <title>Rapid GUI Programming With Python and Qt: The Definitive Guide to Pyqt Programming</title>
+      <contributor>Mark Summerfield</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0132354187</value>
+      </identifier>
+    </book>
+    <book>
+      <id>URYDAAAACAAJ</id>
+      <url>http://books.google.com/books?id=URYDAAAACAAJ</url>
+      <title>The Wiki Way: Quick Collaboration on the Web</title>
+      <contributor>Bo Leuf, Ward Cunningham</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>020171499X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>CyT089J95agC</id>
+      <url>http://books.google.com/books?id=CyT089J95agC</url>
+      <title>The Design of Sites: Patterns, Principles, and Processes for Crafting a Customer-centered Web Experience</title>
+      <contributor>Douglas K. Van Duyne, James A. Landay, Jason I. Hong</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>020172149X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>1Shx_VXS6ioC</id>
+      <url>http://books.google.com/books?id=1Shx_VXS6ioC</url>
+      <title>Python Cookbook</title>
+      <contributor>Alex Martelli, Anna Martelli Ravenscroft, Anna Ravenscroft, David Ascher</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596007973</value>
+      </identifier>
+    </book>
+    <book>
+      <id>fEsZ3Ey-Hq4C</id>
+      <url>http://books.google.com/books?id=fEsZ3Ey-Hq4C</url>
+      <title>Programming Collective Intelligence: Building Smart Web 2.0 Applications</title>
+      <contributor>Toby Segaran</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596529325</value>
+      </identifier>
+    </book>
+    <book>
+      <id>dfHvA4tjoQoC</id>
+      <url>http://books.google.com/books?id=dfHvA4tjoQoC</url>
+      <title>CSS Pocket Reference: Visual Presentation for the Web</title>
+      <contributor>Eric Meyer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596515057</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Za_UGAAACAAJ</id>
+      <url>http://books.google.com/books?id=Za_UGAAACAAJ</url>
+      <title>Cherrypy Essentials: Rapid Python Web Application Development</title>
+      <contributor>Sylvain Hellegouarch</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1904811841</value>
+      </identifier>
+    </book>
+    <book>
+      <id>2KEBAAAACAAJ</id>
+      <url>http://books.google.com/books?id=2KEBAAAACAAJ</url>
+      <title>Python and Tkinter Programming</title>
+      <contributor>John E. Grayson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1884777813</value>
+      </identifier>
+    </book>
+    <book>
+      <id>VnGkf92gQh4C</id>
+      <url>http://books.google.com/books?id=VnGkf92gQh4C</url>
+      <title>Jython Essentials</title>
+      <contributor>Samuele Pedroni, Noel Rappin, Jim Hugunin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596002475</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Fw3i6p3yUFkC</id>
+      <url>http://books.google.com/books?id=Fw3i6p3yUFkC</url>
+      <title>Python Programming with the Java Class Libraries: A Tutorial for Building Web and Enterprise Applications with Jython</title>
+      <contributor>Richard Hightower</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201616165</value>
+      </identifier>
+    </book>
+    <book>
+      <id>-7MMHfZ8bc8C</id>
+      <url>http://books.google.com/books?id=-7MMHfZ8bc8C</url>
+      <title>Jython for Java Programmers</title>
+      <contributor>Robert W. Bill</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735711119</value>
+      </identifier>
+    </book>
+    <book>
+      <id>NmkD220i9KsC</id>
+      <url>http://books.google.com/books?id=NmkD220i9KsC</url>
+      <title>Python Web Programming</title>
+      <contributor>Steve Holden, David M. Beazley</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0735710902</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pik5AQAACAAJ</id>
+      <url>http://books.google.com/books?id=pik5AQAACAAJ</url>
+      <title>Game Programming: The L Line, The Express Line to Learning</title>
+      <contributor>Andrew Harris</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0470068221</value>
+      </identifier>
+    </book>
+    <book>
+      <id>CH4JAAAACAAJ</id>
+      <url>http://books.google.com/books?id=CH4JAAAACAAJ</url>
+      <title>Bringing Design to Software</title>
+      <contributor>Terry Winograd</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201854910</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7FAEAAAACAAJ</id>
+      <url>http://books.google.com/books?id=7FAEAAAACAAJ</url>
+      <title>Inside Electronic Game Design</title>
+      <contributor>Arnie Katz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1559586699</value>
+      </identifier>
+    </book>
+    <book>
+      <id>koVzAQAACAAJ</id>
+      <url>http://books.google.com/books?id=koVzAQAACAAJ</url>
+      <title>Web and New Media Pricing Guide</title>
+      <contributor>J. P. Frenza, Michelle Szabo</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>156830336X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>CPxTAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=CPxTAAAAMAAJ</url>
+      <title>Graphic Design for Electronic Documents and User Interfaces</title>
+      <contributor>Aaron Marcus</contributor>
+    </book>
+    <book>
+      <id>bOdQAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=bOdQAAAAMAAJ</url>
+      <title>Interactive System Design</title>
+      <contributor>William M. Newman, Michael G. Lamming</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201631628</value>
+      </identifier>
+    </book>
+    <book>
+      <id>8IfuT6TudFIC</id>
+      <url>http://books.google.com/books?id=8IfuT6TudFIC</url>
+      <title>Turn Signals are the Facial Expressions of Automobiles: Notes of a Technology Watcher</title>
+      <contributor>Donald A. Norman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>020162236X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>IcufAAAACAAJ</id>
+      <url>http://books.google.com/books?id=IcufAAAACAAJ</url>
+      <title>Human interface guidelines: The Apple Desktop Interface</title>
+      <contributor>Apple Computer, Inc, Inc. Apple Computer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201177536</value>
+      </identifier>
+    </book>
+    <book>
+      <id>DoQYtvTtS8AC</id>
+      <url>http://books.google.com/books?id=DoQYtvTtS8AC</url>
+      <title>Designing the User Interface: Strategies for Effective Human-computer Interaction</title>
+      <contributor>Ben Shneiderman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201572869</value>
+      </identifier>
+    </book>
+    <book>
+      <id>luIbAAAACAAJ</id>
+      <url>http://books.google.com/books?id=luIbAAAACAAJ</url>
+      <title>Designing Large-scale Web Sites: A Visual Design Methodology</title>
+      <contributor>Darrell Sano</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>047114276X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>qNzBbUWhGM0C</id>
+      <url>http://books.google.com/books?id=qNzBbUWhGM0C</url>
+      <title>Ajax Patterns and Best Practices</title>
+      <contributor>Christian Gross</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590596161</value>
+      </identifier>
+    </book>
+    <book>
+      <id>9MAMAAAAYAAJ</id>
+      <url>http://books.google.com/books?id=9MAMAAAAYAAJ</url>
+      <title>State of Denial: Bush at War, Part III</title>
+      <contributor>Bob Woodward</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0743272234</value>
+      </identifier>
+    </book>
+    <book>
+      <id>wWuBbTCcsCoC</id>
+      <url>http://books.google.com/books?id=wWuBbTCcsCoC</url>
+      <title>The Persona Lifecycle: Keeping People in Mind Throughout Product Design</title>
+      <contributor>John Pruitt, Tamara Adlin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0125662513</value>
+      </identifier>
+    </book>
+    <book>
+      <id>gJrmszNHQV4C</id>
+      <url>http://books.google.com/books?id=gJrmszNHQV4C</url>
+      <title>Beautiful Code: Leading Programmers Explain How They Think</title>
+      <contributor>Andy Oram, Greg Wilson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596510047</value>
+      </identifier>
+    </book>
+    <book>
+      <id>xPLaGAAACAAJ</id>
+      <url>http://books.google.com/books?id=xPLaGAAACAAJ</url>
+      <title>Finding Flow: The Psychology of Engagement With Everyday Life</title>
+      <contributor>Mihaly Csikszentmihalyi</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0465024114</value>
+      </identifier>
+    </book>
+    <book>
+      <id>5iV5HgAACAAJ</id>
+      <url>http://books.google.com/books?id=5iV5HgAACAAJ</url>
+      <title>Design Patterns: Elements of Reusable Object-Oriented Software</title>
+      <contributor>Erich Gamma</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0201633612</value>
+      </identifier>
+    </book>
+    <book>
+      <id>WndTAAAACAAJ</id>
+      <url>http://books.google.com/books?id=WndTAAAACAAJ</url>
+      <title>PostgreSQL: The Comprehensive Guide to Building, Programming, and Administering PostgresSQL Databases</title>
+      <contributor>Korry Douglas, Susan Douglas</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0672327562</value>
+      </identifier>
+    </book>
+    <book>
+      <id>E6FcH4d-hAAC</id>
+      <url>http://books.google.com/books?id=E6FcH4d-hAAC</url>
+      <title>Programming Python: Object-Oriented Scripting</title>
+      <contributor>Mark Lutz, Laura Lewin, Frank Willison</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596000855</value>
+      </identifier>
+    </book>
+    <book>
+      <id>oKrvHQAACAAJ</id>
+      <url>http://books.google.com/books?id=oKrvHQAACAAJ</url>
+      <title>Learning Python</title>
+      <contributor>Mark Lutz, David Ascher</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1565924649</value>
+      </identifier>
+    </book>
+    <book>
+      <id>04cFCVXC_AUC</id>
+      <url>http://books.google.com/books?id=04cFCVXC_AUC</url>
+      <title>The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity</title>
+      <contributor>Alan Cooper</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0672326140</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ej6ZcdirUMwC</id>
+      <url>http://books.google.com/books?id=ej6ZcdirUMwC</url>
+      <title>Deep Inside OsCommerce: The Cookbook</title>
+      <contributor>Monika Mathé</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1847190901</value>
+      </identifier>
+    </book>
+    <book>
+      <id>NL_BAAAACAAJ</id>
+      <url>http://books.google.com/books?id=NL_BAAAACAAJ</url>
+      <title>Ajax in Action</title>
+      <contributor>Dave Crane, Eric Pascarello</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1932394613</value>
+      </identifier>
+    </book>
+    <book>
+      <id>FB3PAQAACAAJ</id>
+      <url>http://books.google.com/books?id=FB3PAQAACAAJ</url>
+      <title>Classificatory Structures: Concepts, Relations and Representation</title>
+      <contributor>Hemalata Iyer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>3932004205</value>
+      </identifier>
+    </book>
+    <book>
+      <id>H_QhE_Emsv0C</id>
+      <url>http://books.google.com/books?id=H_QhE_Emsv0C</url>
+      <title>The Thesaurus: Review, Renaissance, and Revision</title>
+      <contributor>Sandra K. Roe, Alan R. Thomas</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0789019795</value>
+      </identifier>
+    </book>
+    <book>
+      <id>r0iBW7fygu8C</id>
+      <url>http://books.google.com/books?id=r0iBW7fygu8C</url>
+      <title>The Intellectual Foundation of Information Organization</title>
+      <contributor>Elaine Svenonius</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262194333</value>
+      </identifier>
+    </book>
+    <book>
+      <id>fGUIAAAACAAJ</id>
+      <url>http://books.google.com/books?id=fGUIAAAACAAJ</url>
+      <title>A Gamut of Games</title>
+      <contributor>Sid Sackson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486273474</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Atq2AQddJSEC</id>
+      <url>http://books.google.com/books?id=Atq2AQddJSEC</url>
+      <title>Go and Go-Moku: The Oriental Board Games</title>
+      <contributor>Edward Lasker</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486206130</value>
+      </identifier>
+    </book>
+    <book>
+      <id>bej2eG1BaZEC</id>
+      <url>http://books.google.com/books?id=bej2eG1BaZEC</url>
+      <title>The New Complete Hoyle: the authoritative guide to the official rules of all popular games of skill and chance</title>
+      <contributor>Albert H. Morehead, Edmond Hoyle, Richard L. Frey, Geoffrey Mott-Smith</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0385249624</value>
+      </identifier>
+    </book>
+    <book>
+      <id>SJRMAAAACAAJ</id>
+      <url>http://books.google.com/books?id=SJRMAAAACAAJ</url>
+      <title>Learn to Play Mah Jongg</title>
+      <contributor>Marcia Hammer, Random House Value Publishing Staff</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0679143750</value>
+      </identifier>
+    </book>
+    <book>
+      <id>WNE3AAAACAAJ</id>
+      <url>http://books.google.com/books?id=WNE3AAAACAAJ</url>
+      <title>A Mah Jong Handbook: How to Play, Score, and Win the Modern Game</title>
+      <contributor>Eleanor Noss Whitney</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0804803927</value>
+      </identifier>
+    </book>
+    <book>
+      <id>y90UTQeLeeIC</id>
+      <url>http://books.google.com/books?id=y90UTQeLeeIC</url>
+      <title>Chess for Fun and Chess for Blood</title>
+      <contributor>Edward Lasker</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486201465</value>
+      </identifier>
+    </book>
+    <book>
+      <id>vMB5BAAACAAJ</id>
+      <url>http://books.google.com/books?id=vMB5BAAACAAJ</url>
+      <title>100 Other Games to Play on a Chessboard</title>
+      <contributor>Stephen Addison</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0720606179</value>
+      </identifier>
+    </book>
+    <book>
+      <id>EyV-AAAACAAJ</id>
+      <url>http://books.google.com/books?id=EyV-AAAACAAJ</url>
+      <title>The Official Book of Kensington</title>
+      <contributor>Alan Hiron</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0809254875</value>
+      </identifier>
+    </book>
+    <book>
+      <id>5viitl9PvBoC</id>
+      <url>http://books.google.com/books?id=5viitl9PvBoC</url>
+      <title>Board and Table Games from Many Civilizations</title>
+      <contributor>Robert Charles Bell</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486238555</value>
+      </identifier>
+    </book>
+    <book>
+      <id>6MgMAAAACAAJ</id>
+      <url>http://books.google.com/books?id=6MgMAAAACAAJ</url>
+      <title>The Inwo Book: Being a Compendium of Lore, Lies, Damned Lies and Statistics Concerning the New World Order of the Illuminated Masters</title>
+      <contributor>Steve Jackson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>155634306X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Pl2cCYyuSGcC</id>
+      <url>http://books.google.com/books?id=Pl2cCYyuSGcC</url>
+      <title>Gin Rummy: How to Play and Win</title>
+      <contributor>Sam Fry, Samuel Fry</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486236307</value>
+      </identifier>
+    </book>
+    <book>
+      <id>t7dSAAAACAAJ</id>
+      <url>http://books.google.com/books?id=t7dSAAAACAAJ</url>
+      <title>Ryrie New American Standard Study Bible-Silver, Light Gray Cloth Red Letter</title>
+      <contributor>Moody Press</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>080247425X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ON_lAAAACAAJ</id>
+      <url>http://books.google.com/books?id=ON_lAAAACAAJ</url>
+      <title>Mauá: empresário do Império</title>
+      <contributor>Jorge Caldeira</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8571644365</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MW-DGAAACAAJ</id>
+      <url>http://books.google.com/books?id=MW-DGAAACAAJ</url>
+      <title>Raízes do Brasil: edição comemorativa 70 anos</title>
+      <contributor>Sérgio Buarque de Holanda</contributor>
+    </book>
+    <book>
+      <id>tMDQAQAACAAJ</id>
+      <url>http://books.google.com/books?id=tMDQAQAACAAJ</url>
+      <title>Glimpses of World History</title>
+      <contributor>Jawaharlal Nehru</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0143031058</value>
+      </identifier>
+    </book>
+    <book>
+      <id>aloBICDFR2MC</id>
+      <url>http://books.google.com/books?id=aloBICDFR2MC</url>
+      <title>A history of warfare</title>
+      <contributor>John Keegan</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0679730826</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OfE0HgAACAAJ</id>
+      <url>http://books.google.com/books?id=OfE0HgAACAAJ</url>
+      <title>Empire Adrift: The Portuguese Court in Rio de Janeiro, 1808-1821</title>
+      <contributor>Patrick Wilcken</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0747556725</value>
+      </identifier>
+    </book>
+    <book>
+      <id>q9xfGcwEEqMC</id>
+      <url>http://books.google.com/books?id=q9xfGcwEEqMC</url>
+      <title>Six Frigates: The Epic History of the Founding of the U.S. Navy</title>
+      <contributor>Ian W. Toll</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0393058476</value>
+      </identifier>
+    </book>
+    <book>
+      <id>TZp_GT7PscIC</id>
+      <url>http://books.google.com/books?id=TZp_GT7PscIC</url>
+      <title>Nothing Like It In The World: The Men who Built the Transcontinental Railroad, 1863-1869</title>
+      <contributor>Stephen E. Ambrose</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0743203178</value>
+      </identifier>
+    </book>
+    <book>
+      <id>tN3zAAAACAAJ</id>
+      <url>http://books.google.com/books?id=tN3zAAAACAAJ</url>
+      <title>Naval Wars in the Levant, 1559-1853</title>
+      <contributor>R. C. Anderson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1578985382</value>
+      </identifier>
+    </book>
+    <book>
+      <id>xOJqAAAACAAJ</id>
+      <url>http://books.google.com/books?id=xOJqAAAACAAJ</url>
+      <title>The Far Side of the World</title>
+      <contributor>Patrick O&apos;Brian</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0007157878</value>
+      </identifier>
+    </book>
+    <book>
+      <id>7UnxGAAACAAJ</id>
+      <url>http://books.google.com/books?id=7UnxGAAACAAJ</url>
+      <title>The Great Game: The Struggle for Empire in Central Asia</title>
+      <contributor>Peter Hopkirk</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>4770017030</value>
+      </identifier>
+    </book>
+    <book>
+      <id>hAa0GAAACAAJ</id>
+      <url>http://books.google.com/books?id=hAa0GAAACAAJ</url>
+      <title>A coroa, a cruz e a espada</title>
+      <contributor>Eduardo Bueno</contributor>
+    </book>
+    <book>
+      <id>WvOTAAAACAAJ</id>
+      <url>http://books.google.com/books?id=WvOTAAAACAAJ</url>
+      <title>Independencia: Revolucao e Contra-Revolucao as Forcas Armadas</title>
+      <contributor>Jose Honorio. Rodrigues</contributor>
+    </book>
+    <book>
+      <id>uyoAAAAACAAJ</id>
+      <url>http://books.google.com/books?id=uyoAAAAACAAJ</url>
+      <title>Disaster at the Pole: The Tragedy of the Airship Italia and the 1928 Nobile Expedition to the North Pole</title>
+      <contributor>Wilbur Cross</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1585740497</value>
+      </identifier>
+    </book>
+    <book>
+      <id>J5bRJtDRP8UC</id>
+      <url>http://books.google.com/books?id=J5bRJtDRP8UC</url>
+      <title>Guerra, açucar e religião no Brasil dos holandeses</title>
+      <contributor>Adriana Lopez</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8573592621</value>
+      </identifier>
+    </book>
+    <book>
+      <id>cLoZAAAACAAJ</id>
+      <url>http://books.google.com/books?id=cLoZAAAACAAJ</url>
+      <title>Heisenberg&apos;s War: The Secret History of the German Bomb</title>
+      <contributor>Thomas Powers</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140235809</value>
+      </identifier>
+    </book>
+    <book>
+      <id>8DtyAwAACAAJ</id>
+      <url>http://books.google.com/books?id=8DtyAwAACAAJ</url>
+      <title>Codebreakers: The Inside Story of Bletchley Park</title>
+      <contributor>Francis Harry Hinsley, Alan Stripp</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>019285304X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Gh3oHQAACAAJ</id>
+      <url>http://books.google.com/books?id=Gh3oHQAACAAJ</url>
+      <title>Thirteen Days: A Memoir of the Cuban Missile Crisis</title>
+      <contributor>Robert F. Kennedy</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0393098966</value>
+      </identifier>
+    </book>
+    <book>
+      <id>xvIiHQAACAAJ</id>
+      <url>http://books.google.com/books?id=xvIiHQAACAAJ</url>
+      <title>Virtual History: Alternatives and Counterfactuals</title>
+      <contributor>Niall Ferguson</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0333647289</value>
+      </identifier>
+    </book>
+    <book>
+      <id>HM0KAAAACAAJ</id>
+      <url>http://books.google.com/books?id=HM0KAAAACAAJ</url>
+      <title>Paasch&apos;s Illustrated Marine Dictionary: An Authentic Document of the Age of Steam and Sail</title>
+      <contributor>Henry Paasch</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1558216502</value>
+      </identifier>
+    </book>
+    <book>
+      <id>g4RhAQAACAAJ</id>
+      <url>http://books.google.com/books?id=g4RhAQAACAAJ</url>
+      <title>Captain Cook&apos;s Final Voyage: The Journal of Midshipman George Gilbert</title>
+      <contributor>George Gilbert, Christine Holmes</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0824807871</value>
+      </identifier>
+    </book>
+    <book>
+      <id>lKAJAAAACAAJ</id>
+      <url>http://books.google.com/books?id=lKAJAAAACAAJ</url>
+      <title>A War Betwixt Englishmen: Brazil Against Argentina on the River Plate, 1825-1830</title>
+      <contributor>Brian Vale</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1860644562</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pZPe638hXWUC</id>
+      <url>http://books.google.com/books?id=pZPe638hXWUC</url>
+      <title>A Frigate of King George: Life and Duty on a British Man-of-War 1807-1829</title>
+      <contributor>Brian Vale</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1860646549</value>
+      </identifier>
+    </book>
+    <book>
+      <id>b8dYAAAACAAJ</id>
+      <url>http://books.google.com/books?id=b8dYAAAACAAJ</url>
+      <title>A viagem do Liberdade</title>
+      <contributor>Joshua Slocum</contributor>
+    </book>
+    <book>
+      <id>htlOAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=htlOAAAAMAAJ</url>
+      <title>Getting to Yes: Negotiating Agreement Without Giving in</title>
+      <contributor>Roger Fisher, William Ury, Bruce Patton</contributor>
+    </book>
+    <book>
+      <id>3qEbAgAACAAJ</id>
+      <url>http://books.google.com/books?id=3qEbAgAACAAJ</url>
+      <title>The First World War: An Illustrated History</title>
+      <contributor>Alan John Percivale Taylor</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140024816</value>
+      </identifier>
+    </book>
+    <book>
+      <id>zA87v8FWVEAC</id>
+      <url>http://books.google.com/books?id=zA87v8FWVEAC</url>
+      <title>Catch me if you can: The Amazing True Story of the Youngest and Most Daring Con Man in the History of Fun and Profit</title>
+      <contributor>Frank W. Abagnale, Stan Redding</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0767905385</value>
+      </identifier>
+    </book>
+    <book>
+      <id>LLqNPby9I9oC</id>
+      <url>http://books.google.com/books?id=LLqNPby9I9oC</url>
+      <title>The Professor and the Madman: A Tale of Murder, Insanity, and the Making of the Oxford English Dictionary</title>
+      <contributor>Simon Winchester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>006099486X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>jmkZo5qkt9sC</id>
+      <url>http://books.google.com/books?id=jmkZo5qkt9sC</url>
+      <title>The Cyberiad: Fables for the Cybernetic Age</title>
+      <contributor>Stanisław Lem, Michael Kandel, Daniel Mroz</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0156235501</value>
+      </identifier>
+    </book>
+    <book>
+      <id>kM1hAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=kM1hAAAAMAAJ</url>
+      <title>Solaris</title>
+      <contributor>Stanisław Lem, Joanna Kilmartin, Steven Cox</contributor>
+    </book>
+    <book>
+      <id>RgY5AAAACAAJ</id>
+      <url>http://books.google.com/books?id=RgY5AAAACAAJ</url>
+      <title>Imaginary Magnitude</title>
+      <contributor>Stanislaw Lem</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0156441802</value>
+      </identifier>
+    </book>
+    <book>
+      <id>AexMAQAACAAJ</id>
+      <url>http://books.google.com/books?id=AexMAQAACAAJ</url>
+      <title>A Perfect Vacuum</title>
+      <contributor>Stanislaw Lem</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>074930538X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>pZmLAAAACAAJ</id>
+      <url>http://books.google.com/books?id=pZmLAAAACAAJ</url>
+      <title>Nebula awards 31: SFWA&apos;s choices for the best science fiction and fantasy of the year</title>
+      <contributor>Pamela Sargent</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0156001144</value>
+      </identifier>
+    </book>
+    <book>
+      <id>qcaS5hG8TiEC</id>
+      <url>http://books.google.com/books?id=qcaS5hG8TiEC</url>
+      <title>The Puzzle Palace: A Report on America&apos;s Most Secret Agency</title>
+      <contributor>James Bamford</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140067485</value>
+      </identifier>
+    </book>
+    <book>
+      <id>jJkpGQAACAAJ</id>
+      <url>http://books.google.com/books?id=jJkpGQAACAAJ</url>
+      <title>A History of the Middle East</title>
+      <contributor>Peter Mansfield</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140125388</value>
+      </identifier>
+    </book>
+    <book>
+      <id>eKYrR5CkfTIC</id>
+      <url>http://books.google.com/books?id=eKYrR5CkfTIC</url>
+      <title>Utopia: A New Translation with an Introduction</title>
+      <contributor>Thomas More, Paul Turner</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140449108</value>
+      </identifier>
+    </book>
+    <book>
+      <id>EVdnHAAACAAJ</id>
+      <url>http://books.google.com/books?id=EVdnHAAACAAJ</url>
+      <title>The Deeper Meaning of Liff</title>
+      <contributor>Douglas Adams, John Lloyd, Bert Kitchen</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0330322206</value>
+      </identifier>
+    </book>
+    <book>
+      <id>In-XKAAACAAJ</id>
+      <url>http://books.google.com/books?id=In-XKAAACAAJ</url>
+      <title>Use of Weapons</title>
+      <contributor>Iain M. Banks</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0356191605</value>
+      </identifier>
+    </book>
+    <book>
+      <id>te-XAAAACAAJ</id>
+      <url>http://books.google.com/books?id=te-XAAAACAAJ</url>
+      <title>Continent</title>
+      <contributor>Jim Crace</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0330299646</value>
+      </identifier>
+    </book>
+    <book>
+      <id>F4icYGiv5UcC</id>
+      <url>http://books.google.com/books?id=F4icYGiv5UcC</url>
+      <title>Ponzi&apos;s Scheme: The True Story of a Financial Legend</title>
+      <contributor>Mitchell Zuckoff</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0812968360</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Y-WRAwAACAAJ</id>
+      <url>http://books.google.com/books?id=Y-WRAwAACAAJ</url>
+      <title>The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron</title>
+      <contributor>Bethany McLean, Peter Elkind</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1591840538</value>
+      </identifier>
+    </book>
+    <book>
+      <id>aZSLAAAACAAJ</id>
+      <url>http://books.google.com/books?id=aZSLAAAACAAJ</url>
+      <title>The Hobbit, Or, There and Back Again</title>
+      <contributor>John Ronald Reuel Tolkien</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>000711544X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>AT-QIQAACAAJ</id>
+      <url>http://books.google.com/books?id=AT-QIQAACAAJ</url>
+      <title>Harry Potter Boxed Set</title>
+      <contributor>Joanne K. Rowling</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0747557012</value>
+      </identifier>
+    </book>
+    <book>
+      <id>3e1IIwAACAAJ</id>
+      <url>http://books.google.com/books?id=3e1IIwAACAAJ</url>
+      <title>Harry Potter and the Philosopher&apos;s Stone</title>
+      <contributor>J. K. Rowling</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0747532745</value>
+      </identifier>
+    </book>
+    <book>
+      <id>16e5AAAACAAJ</id>
+      <url>http://books.google.com/books?id=16e5AAAACAAJ</url>
+      <title>Obras completas</title>
+      <contributor>Jorge Luis Borges</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8473540026</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Ppwj-zCZCOoC</id>
+      <url>http://books.google.com/books?id=Ppwj-zCZCOoC</url>
+      <title>The Book of Old Ships: From Egyptian Galleys to Clipper Ships</title>
+      <contributor>Henry B. Culver, Gordon Grant, Culver</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0486273326</value>
+      </identifier>
+    </book>
+    <book>
+      <id>UuSHAAAACAAJ</id>
+      <url>http://books.google.com/books?id=UuSHAAAACAAJ</url>
+      <title>Dicionário ilustrado de marinha</title>
+      <contributor>António Marques Esparteiro</contributor>
+      <identifier>
+        <type>LCCN</type>
+        <value>63048619</value>
+      </identifier>
+    </book>
+    <book>
+      <id>JKY8yZFChX4C</id>
+      <url>http://books.google.com/books?id=JKY8yZFChX4C</url>
+      <title>A Sea of Words: A Lexicon and Companion for Patrick O&apos;Brian&apos;s Seafaring Tales</title>
+      <contributor>Dean King, John B. Hattendorf, J. Worth Estes</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0805066152</value>
+      </identifier>
+    </book>
+    <book>
+      <id>PeQ2AAAACAAJ</id>
+      <url>http://books.google.com/books?id=PeQ2AAAACAAJ</url>
+      <title>Nelson: The Essential Hero</title>
+      <contributor>Ernie Bradford</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1840222026</value>
+      </identifier>
+    </book>
+    <book>
+      <id>2pufAAAACAAJ</id>
+      <url>http://books.google.com/books?id=2pufAAAACAAJ</url>
+      <title>O corsário: uma invasão francesa no Rio de Janeiro : diário de Bordo du Guay-Trouin, 1740</title>
+      <contributor>René Duguay-Trouin, René Du Guay-Trouin</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8587723251</value>
+      </identifier>
+    </book>
+    <book>
+      <id>c6cIAAAACAAJ</id>
+      <url>http://books.google.com/books?id=c6cIAAAACAAJ</url>
+      <title>The Strange Last Voyage of Donald Crowhurst</title>
+      <contributor>Nicholas Tomalin, Ron Hall</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0071414290</value>
+      </identifier>
+    </book>
+    <book>
+      <id>J344AAAACAAJ</id>
+      <url>http://books.google.com/books?id=J344AAAACAAJ</url>
+      <title>Master and Commander</title>
+      <contributor>Patrick O&apos;Brian</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>000715786X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>d7NzHAAACAAJ</id>
+      <url>http://books.google.com/books?id=d7NzHAAACAAJ</url>
+      <title>Cochrane: Britannia&apos;s Sea Wolf</title>
+      <contributor>Donald Thomas</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>030435659X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Py1jQCNDl5YC</id>
+      <url>http://books.google.com/books?id=Py1jQCNDl5YC</url>
+      <title>Cochrane: The Life and Exploits of a Fighting Captain</title>
+      <contributor>Robert Harvey</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0786709235</value>
+      </identifier>
+    </book>
+    <book>
+      <id>SI2VIQAACAAJ</id>
+      <url>http://books.google.com/books?id=SI2VIQAACAAJ</url>
+      <title>Lord Cochrane: Seaman, Radical, Liberator</title>
+      <contributor>Christopher Lloyd</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>080505569X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>FAAFAAAACAAJ</id>
+      <url>http://books.google.com/books?id=FAAFAAAACAAJ</url>
+      <title>The Black Ship</title>
+      <contributor>Dudley Pope</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0850529735</value>
+      </identifier>
+    </book>
+    <book>
+      <id>XI7SGwAACAAJ</id>
+      <url>http://books.google.com/books?id=XI7SGwAACAAJ</url>
+      <title>Decision at Trafalgar</title>
+      <contributor>Dudley Pope</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0805061371</value>
+      </identifier>
+    </book>
+    <book>
+      <id>UtEGAAAACAAJ</id>
+      <url>http://books.google.com/books?id=UtEGAAAACAAJ</url>
+      <title>El combate perpetuo</title>
+      <contributor>Marcos Aguinis</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>9504912036</value>
+      </identifier>
+    </book>
+    <book>
+      <id>C3_sAAAACAAJ</id>
+      <url>http://books.google.com/books?id=C3_sAAAACAAJ</url>
+      <title>The Young Hornblower</title>
+      <contributor>Cecil Scott Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0140271732</value>
+      </identifier>
+    </book>
+    <book>
+      <id>c21RGwAACAAJ</id>
+      <url>http://books.google.com/books?id=c21RGwAACAAJ</url>
+      <title>Admiral Hornblower in the West Indies</title>
+      <contributor>Cecil Scott Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289418</value>
+      </identifier>
+    </book>
+    <book>
+      <id>wQmUKwAACAAJ</id>
+      <url>http://books.google.com/books?id=wQmUKwAACAAJ</url>
+      <title>Lord Hornblower</title>
+      <contributor>Cecil Scott Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289434</value>
+      </identifier>
+    </book>
+    <book>
+      <id>CyMZHQAACAAJ</id>
+      <url>http://books.google.com/books?id=CyMZHQAACAAJ</url>
+      <title>Commodore Hornblower</title>
+      <contributor>Cecil Scott Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289388</value>
+      </identifier>
+    </book>
+    <book>
+      <id>tPrSGwAACAAJ</id>
+      <url>http://books.google.com/books?id=tPrSGwAACAAJ</url>
+      <title>Flying Colours</title>
+      <contributor>C.S. Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289396</value>
+      </identifier>
+    </book>
+    <book>
+      <id>5pqFHAAACAAJ</id>
+      <url>http://books.google.com/books?id=5pqFHAAACAAJ</url>
+      <title>Beat to Quarters</title>
+      <contributor>C. S. Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289329</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Fh_EJwAACAAJ</id>
+      <url>http://books.google.com/books?id=Fh_EJwAACAAJ</url>
+      <title>Hornblower and the Atropos</title>
+      <contributor>C. S. Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289299</value>
+      </identifier>
+    </book>
+    <book>
+      <id>MesXHwAACAAJ</id>
+      <url>http://books.google.com/books?id=MesXHwAACAAJ</url>
+      <title>Hornblower During the Crisis</title>
+      <contributor>C. S. Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289442</value>
+      </identifier>
+    </book>
+    <book>
+      <id>yr7IIwAACAAJ</id>
+      <url>http://books.google.com/books?id=yr7IIwAACAAJ</url>
+      <title>Hornblower and the Hotspur</title>
+      <contributor>C. S. Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316290467</value>
+      </identifier>
+    </book>
+    <book>
+      <id>zfABLgAACAAJ</id>
+      <url>http://books.google.com/books?id=zfABLgAACAAJ</url>
+      <title>Lieutenant Hornblower</title>
+      <contributor>C. S. Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316290637</value>
+      </identifier>
+    </book>
+    <book>
+      <id>avdcHwAACAAJ</id>
+      <url>http://books.google.com/books?id=avdcHwAACAAJ</url>
+      <title>Mr. Midshipman Hornblower</title>
+      <contributor>C. S. Forester</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0316289124</value>
+      </identifier>
+    </book>
+    <book>
+      <id>TOleYoweQ5QC</id>
+      <url>http://books.google.com/books?id=TOleYoweQ5QC</url>
+      <title>Background Math for a Computer World: Goal Setting for Fun, Health, and Profit</title>
+      <contributor>George L. Morrisey, Ruth Ashley, Nancy B. Stern</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0471080861</value>
+      </identifier>
+    </book>
+    <book>
+      <id>OADuAQAACAAJ</id>
+      <url>http://books.google.com/books?id=OADuAQAACAAJ</url>
+      <title>Juegos lógicos en el mundo de la inteligencia artificial</title>
+      <contributor>Jean Friant, Yvon L&apos;Hospitalier</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8474322928</value>
+      </identifier>
+    </book>
+    <book>
+      <id>5VTBuvfZDyoC</id>
+      <url>http://books.google.com/books?id=5VTBuvfZDyoC</url>
+      <title>Head first Java</title>
+      <contributor>Kathy Sierra, Bert Bates</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596009208</value>
+      </identifier>
+    </book>
+    <book>
+      <id>BqjLHQAACAAJ</id>
+      <url>http://books.google.com/books?id=BqjLHQAACAAJ</url>
+      <title>The Object Primer: The Application Developer&apos;s Guide to Object Orientation and the UML</title>
+      <contributor>Scott W. Ambler</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0521785197</value>
+      </identifier>
+    </book>
+    <book>
+      <id>vpTAq4dnmuAC</id>
+      <url>http://books.google.com/books?id=vpTAq4dnmuAC</url>
+      <title>Python in a Nutshell: A Desktop Quick Reference</title>
+      <contributor>Alex Martelli</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596100469</value>
+      </identifier>
+    </book>
+    <book>
+      <id>5clhONg4UQIC</id>
+      <url>http://books.google.com/books?id=5clhONg4UQIC</url>
+      <title>Designing Interfaces: Patterns for Effective Interaction Design</title>
+      <contributor>Jenifer Tidwell</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596008031</value>
+      </identifier>
+    </book>
+    <book>
+      <id>LvXiZJEUJjAC</id>
+      <url>http://books.google.com/books?id=LvXiZJEUJjAC</url>
+      <title>Minimalism Beyond the Nurnberg Funnel</title>
+      <contributor>John M. Carroll, Society for Technical Communication</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>026203249X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>QYLjYINEGncC</id>
+      <url>http://books.google.com/books?id=QYLjYINEGncC</url>
+      <title>UML 2   GUIA PRATICO</title>
+      <contributor>GILLEAMES T.A. GUEDES</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>8575221450</value>
+      </identifier>
+    </book>
+    <book>
+      <id>-t9yAAAACAAJ</id>
+      <url>http://books.google.com/books?id=-t9yAAAACAAJ</url>
+      <title>Software Engineering With Perl</title>
+      <contributor>Carl Dichter, Mark Pease</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>013016965X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>aJQILlLxRmAC</id>
+      <url>http://books.google.com/books?id=aJQILlLxRmAC</url>
+      <title>Python Programming: An Introduction to Computer Science</title>
+      <contributor>John M. Zelle</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1887902996</value>
+      </identifier>
+    </book>
+    <book>
+      <id>xPhSAAAAMAAJ</id>
+      <url>http://books.google.com/books?id=xPhSAAAAMAAJ</url>
+      <title>Zope 3 Developer&apos;s Handbook: A Practical Guide to Developing and Administering Content Management Systems with Zope</title>
+      <contributor>Stephan Richter</contributor>
+    </book>
+    <book>
+      <id>C2MjAAAACAAJ</id>
+      <url>http://books.google.com/books?id=C2MjAAAACAAJ</url>
+      <title>Web Component Development with Zope 3</title>
+      <contributor>Philipp von Weitershausen, Phillip J. Eby</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>3540338071</value>
+      </identifier>
+    </book>
+    <book>
+      <id>9dQDAAAACAAJ</id>
+      <url>http://books.google.com/books?id=9dQDAAAACAAJ</url>
+      <title>The Quick Python Book</title>
+      <contributor>Daryl D. Harms, Kenneth McDonald</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1884777740</value>
+      </identifier>
+    </book>
+    <book>
+      <id>kQom0WiUbZQC</id>
+      <url>http://books.google.com/books?id=kQom0WiUbZQC</url>
+      <title>Python Essential Reference: Essential Reference</title>
+      <contributor>David M. Beazley</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0672328623</value>
+      </identifier>
+    </book>
+    <book>
+      <id>ZKyiJwAACAAJ</id>
+      <url>http://books.google.com/books?id=ZKyiJwAACAAJ</url>
+      <title>The Computer Glossary: The Complete Illustrated Dictionary</title>
+      <contributor>Alan Freedman</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0814479782</value>
+      </identifier>
+    </book>
+    <book>
+      <id>H78MAAAACAAJ</id>
+      <url>http://books.google.com/books?id=H78MAAAACAAJ</url>
+      <title>Object-Oriented Software Construction</title>
+      <contributor>Bertrand Meyer</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0136291554</value>
+      </identifier>
+    </book>
+    <book>
+      <id>jWirAAAACAAJ</id>
+      <url>http://books.google.com/books?id=jWirAAAACAAJ</url>
+      <title>The Object Concept: An Introduction to Computer Programming Using C++</title>
+      <contributor>Rick Decker, Stuart Hirshfield</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0534204961</value>
+      </identifier>
+    </book>
+    <book>
+      <id>QAr82w_eSi8C</id>
+      <url>http://books.google.com/books?id=QAr82w_eSi8C</url>
+      <title>Head First Software Development</title>
+      <contributor>Dan Pilone, Russ Miles</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0596527357</value>
+      </identifier>
+    </book>
+    <book>
+      <id>10EDGwAACAAJ</id>
+      <url>http://books.google.com/books?id=10EDGwAACAAJ</url>
+      <title>Introductory Computer Science: Bits of Theory, Bytes of Practice</title>
+      <contributor>A. K. Dewdney</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0716782863</value>
+      </identifier>
+    </book>
+    <book>
+      <id>zios2bIBA2wC</id>
+      <url>http://books.google.com/books?id=zios2bIBA2wC</url>
+      <title>Who Owns Information?: From Privacy to Public Access</title>
+      <contributor>Anne W. Branscomb</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>046509144X</value>
+      </identifier>
+    </book>
+    <book>
+      <id>cptXSf5kS_IC</id>
+      <url>http://books.google.com/books?id=cptXSf5kS_IC</url>
+      <title>Design by numbers</title>
+      <contributor>John Maeda, Paola Antonelli</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>0262632446</value>
+      </identifier>
+    </book>
+    <book>
+      <id>Pd2WJgAACAAJ</id>
+      <url>http://books.google.com/books?id=Pd2WJgAACAAJ</url>
+      <title>Practical Django Projects</title>
+      <contributor>James Bennett</contributor>
+      <identifier>
+        <type>ISBN</type>
+        <value>1590599969</value>
+      </identifier>
+    </book>
+  </books>
+  <add_token>ACfU3U2kI-mI2afdFq6IVir9g93g2CGfHQ</add_token>
+  <remove_token>ACfU3U3_vZgIzukpAr5Ur0h36PCUIwQvfg</remove_token>
+  <ack_token>ACfU3U1KgB3G85WN6sSHORD4dMX7-CD5uw</ack_token>
+</library>

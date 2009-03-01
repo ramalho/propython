@@ -1,0 +1,4 @@
+Para demonstrar o chaveiro.py:
+
+1. renomeie o arquivo chaveiro.dat.demo para chaveiro.dat
+2. rode o chaveiro.py e use a senha 1234 para ler o chaveiro.dat

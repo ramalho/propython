@@ -1,0 +1,25 @@
+#summary Perguntas Frequentes sobre a linguagem Python
+#labels python,intro
+
+= Perguntas Frequentes sobre a linguagem Python =
+
+ * Como faço um executável para distribuir meu programa em Python?
+
+ * Como acesso dados de um banco de dados relacional SQL?
+
+ * Como construo a interface gráfica de uma aplicação desktop?
+
+ * Quando uso Python eu sou obrigado a distribuir o código-fonte do meu programa?
+
+ * Posso vender um programa feito em Python?
+
+ * Como se programa para a Web em Python?
+ 
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

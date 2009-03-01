@@ -1,0 +1,45 @@
+A partir do Python 2.2 foram introduzidos os conceitos de iteráveis, iteradores e geradores em Python. Entre os comandos e funções embutidas, vários se relacionam a estes conceitos.
+
+Palavras reservadas
+----------------------
+
+for
+yield
+
+
+Tipos
+--------
+
+bool : False
+buffer : ARG buffer() takes at least 1 argument (0 given)
+dict : {}
+file : ARG file() takes at least 1 argument (0 given)
+frozenset : frozenset([])
+list : []
+set : set([])
+slice : ARG slice expected at least 1 arguments, got 0
+tuple : ()
+xrange : ARG xrange() requires 1-3 int arguments
+
+
+Funções
+----------
+
+all : ARG all() takes exactly one argument (0 given)
+any : ARG any() takes exactly one argument (0 given)
+enumerate : ARG enumerate() takes exactly 1 argument (0 given)
+filter : ARG filter expected 2 arguments, got 0
+iter : ARG iter expected at least 1 arguments, got 0
+len : ARG len() takes exactly one argument (0 given)
+map : *** map() requires at least two args
+max : ARG max expected 1 arguments, got 0
+min : ARG min expected 1 arguments, got 0
+open : ARG file() takes at least 1 argument (0 given)
+range : ARG range expected at least 1 arguments, got 0
+reduce : ARG reduce expected at least 2 arguments, got 0
+reversed : ARG reversed expected 1 arguments, got 0
+sorted : ARG sorted() takes at least 1 argument (0 given)
+sum : ARG sum expected at least 1 arguments, got 0
+zip : []
+
+

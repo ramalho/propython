@@ -1,0 +1,47 @@
+Learn Chinese Characters	http://zhongwen.com/	admin	l>:&=+
+famfamfam.com: Home	http://www.famfamfam.com/	lramalho	y=SCKu
+G-Portugol	http://gpt.berlios.de/	lramalho	z&>45
+Horde Library	http://horde.org/papers	admin	RH%B
+Wiki :: WikiHome	http://wiki.horde.org/	admin	$Pfa
+Wiki :: Doc/Dev	http://wiki.horde.org/Doc	lramalho	iVF7Yr7
+Horde Development Resources	http://dev.horde.org/	admin	`KYkuj
+PHP in contrast to Perl	http://tnx.nl/php	admin	Nesyj7C
+Zope 3 wiki FAQ	http://wiki.zope.org/zope3	lramalho	I&I>7
+marc rettig's place	http://www.marcrettig.com/	admin	|(3b
+The Public DNS Service	http://soa.granitecanyon.com/	lramalho	awxn:t0
+juca on rails	http://rails.jkcosta.info/	luciano	i)LF
+Hiki - FrontPage	http://hikiwiki.org/en	luciano	j9xwE+e
+WorldCat.org	http://www.worldcat.org/	admin	|xO^f
+British Library SRU Gateway	http://herbie.bl.uk:9080/	admin	>U@w
+Mozilla Store	http://store.mozilla.org/	admin	K"R_cx1
+Mozilla Developer Center	http://developer.mozilla.org/	ramalho	z__aGS
+Mozilla.com	http://www.mozilla.com/	admin	x37?5L
+Free Software Foundation	http://www.fsf.org/	luciano	1]'p.8A
+Guido's	(null)	luciano	+/Q5
+DH Status	(null)	ramalho	<4hPH[O
+BBC	http://news.bbc.co.uk/	ramalho	xB%#~c
+Hora Legal Brasileira	http://pcdsh01.on.br/ispy.asp	lramalho	Cc$x7
+phpMyAdmin	http://localhost/phpMyAdmin	admin	Q$_~
+Linksys	http://192.168.1.1/basic.htm	ramalho	.5r0a
+JOTWeb Home Page	http://jotweb.tummy.com/	ramalho	Jpq@(y
+EOS Image Manager::Homepage	http://eosim.sourceforge.net/	lramalho	1hozt
+Seif Haridi, SICS	http://www.sics.se/~seif	lramalho	]QQ<
+Open Source Directory	http://www.ohloh.net/	ramalho	_,rl4
+Rands In Repose	http://www.randsinrepose.com/	ramalho	*ld0:2%
+Oficina Eletronica	http://www.oe.com.br/	lramalho	030]<N
+The Rails Way -	http://www.therailsway.com/	luciano	#RL=8!v
+the { buckblogs :here }	http://weblog.jamisbuck.org/	lramalho	r3;f{
+boa idéia software livre	http://blog.boaideia.inf.br/	lramalho	.BO]x
+ENCHGALLERY HOME	http://www.enchgallery.com/	luciano	A)Er
+PHP-MARC | emilda.org	http://www.emilda.org/php-marc	admin	+&crhk!
+MozillaZine	http://www.mozillazine.org/	lramalho	36$Uc<T
+Latest Headlines	http://fxfeeds.mozilla.org/	admin	-]vJ6EP
+PHP: PHP Manual - Manual	http://www.php.net/manual	luciano	Lzg5
+ACM Siggraph main site	http://www.siggraph.org/	admin	,S5bV4-
+MIDI - milk,	http://www.quitte.de/milk.html	ramalho	]#,g
+The Official Blitz Website	http://www.blitzbasic.com/	lramalho	-^A9U
+Gmail - Inbox (26897)	http://mail.google.com/mail	luciano	pP`@
+Ubuntu Blog	http://ubuntu.wordpress.com/	lramalho	-8z[%x
+Ubuntu Support Home	http://www.ubuntu.com/support	luciano	z_:g8Kj
+Ubuntu	http://www.ubuntulinux.org/	admin	i`qXq{B
+dotsrc.org	http://dotsrc.org/	lramalho	"l)=ve

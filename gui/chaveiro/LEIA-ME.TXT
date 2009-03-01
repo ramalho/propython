@@ -1,0 +1,23 @@
+-----------------------------------
+Para demonstrar o chaveiro_eagle.py
+-----------------------------------
+
+1. renomeie o arquivo chaveiro.dat.DEMO para chaveiro.dat
+2. rode o chaveiro_eagle.py e use a senha 1234 para ler o chaveiro.dat
+
+----------------
+Sobre o Eagle-py
+----------------
+
+Este projeto utiliza o mini-framework Eagle-py GTK de Gustavo Sverzut Barbieri.
+O arquivo eagle.py (rev. 189) foi obtido no endereço abaixo em 21/mar/2008:
+
+svn checkout http://eagle-py.googlecode.com/svn/trunk/
+
+Como não existe hoje uma distribuição padrão do Eagle, o eagle.py foi 
+incluído neste projeto conforme sugestão do Gustavo nesta conversa:
+
+http://groups.google.com/group/eagle-py/browse_thread/thread/cb427a46723691de
+
+--
+LR

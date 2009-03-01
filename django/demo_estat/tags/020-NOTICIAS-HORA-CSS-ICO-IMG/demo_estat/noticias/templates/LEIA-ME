@@ -1,0 +1,9 @@
+Esta estrutura foi sugerida por James Bennett em seu blog:
+http://www.b-list.org/weblog/2007/mar/27/reusable-django-apps/
+
+A estrutura é:
+
+- cada aplicação tem um diretório chamado templates
+- dentro de cada diretório templates, é colocado um sub-dir com nome 
+  igual ao da aplicação (essa é a convenção usada nas generic views,
+  segundo o Bannett)

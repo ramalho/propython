@@ -1,0 +1,12 @@
+<VirtualHost *:80>
+
+<Location />
+    SetHandler python-program
+    PythonHandler django.core.handlers.modpython
+    SetEnv DJANGO_SETTINGS_MODULE demo_estat.settings
+    #PythonOption django.root /financ
+    PythonDebug On
+    PythonPath "['/home/fonseca/projetos/propython/django/demo_estat/trunk/'] + sys.path"
+</Location>
+
+</VirtualHost>

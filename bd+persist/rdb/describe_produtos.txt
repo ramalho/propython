@@ -1,0 +1,42 @@
+mysql> describe produtos;
++--------------------------+--------------+------+-----+---------+----------------+
+| Field                    | Type         | Null | Key | Default | Extra          |
++--------------------------+--------------+------+-----+---------+----------------+
+| id_produtos              | int(11)      | NO   | PRI | NULL    | auto_increment | 
+| id_login                 | int(9)       | YES  |     | NULL    |                | 
+| isbn                     | varchar(30)  | NO   | MUL |         |                | 
+| isbn_vip                 | varchar(30)  | NO   | MUL | 0       |                | 
+| preco                    | float(10,2)  | YES  |     | NULL    |                | 
+| preco_promocao           | float(10,2)  | YES  |     | NULL    |                | 
+| resenhap                 | text         | YES  |     | NULL    |                | 
+| titulo                   | varchar(255) | YES  |     | NULL    |                | 
+| nome_autor_texto         | varchar(150) | YES  |     | NULL    |                | 
+| peso                     | float(10,2)  | YES  |     | NULL    |                | 
+| pchave                   | varchar(100) | YES  |     | NULL    |                | 
+| data_insercao            | date         | YES  |     | NULL    |                | 
+| disponivel               | char(3)      | YES  |     | NULL    |                | 
+| categorias               | text         | YES  |     | NULL    |                | 
+| resenhag                 | text         | YES  |     | NULL    |                | 
+| num_paginas              | int(11)      | YES  |     | NULL    |                | 
+| ano                      | varchar(4)   | YES  |     | NULL    |                | 
+| encadernacao             | text         | YES  |     | NULL    |                | 
+| id_muros                 | int(11)      | YES  |     | NULL    |                | 
+| multiplicador_fidelidade | float        | YES  |     | NULL    |                | 
+| id_editora               | int(11)      | NO   |     | 1       |                | 
+| idioma                   | varchar(50)  | NO   |     |         |                | 
+| prazo_entrega            | int(11)      | YES  |     | 5       |                | 
+| status                   | varchar(30)  | YES  |     | NULL    |                | 
+| tipo                     | varchar(30)  | YES  |     | NULL    |                | 
+| cd_diskete               | varchar(20)  | YES  |     | NULL    |                | 
+| edicao_livro             | varchar(20)  | YES  |     | NULL    |                | 
+| prazo_garantia           | varchar(20)  | YES  |     | NULL    |                | 
+| id_produtos_serie        | int(11)      | YES  | MUL | NULL    |                | 
+| edicao                   | varchar(30)  | YES  |     | NULL    |                | 
+| cor_roupa                | varchar(20)  | YES  |     | NULL    |                | 
+| tamanho_roupa            | varchar(20)  | YES  |     | NULL    |                | 
+| sexo                     | varchar(20)  | YES  |     | NULL    |                | 
+| qtde_cds                 | int(12)      | YES  |     | NULL    |                | 
+| qtde_estoque             | int(11)      | YES  |     | 0       |                | 
+| reserva                  | int(11)      | NO   |     | 0       |                | 
++--------------------------+--------------+------+-----+---------+----------------+
+

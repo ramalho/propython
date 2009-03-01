@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="pt-br">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+    <title>amig0 5ecreto! {%block nome_grupo%}{%endblock%}</title>
+</head>
+<body>
+    <h1><a href="/">amig0 5ecreto!</a></h1>
+    <hr>
+    {%block miolo%}
+    Aqui entra o texto central da página.
+    {%endblock%}
+    
+    <hr>
+    <p>    
+    {%block rodape%}
+        {%if link_login%}<a href="{{link_login}}">Entrar</a>{%endif%}
+        {%if link_logout%}<a href="{{link_logout}}">Sair</a>{%endif%}
+
+    {%endblock%}
+    </p>
+</body>
+</html>

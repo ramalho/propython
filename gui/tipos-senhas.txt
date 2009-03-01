@@ -1,0 +1,13 @@
+==============  ==================  ======  ===============
+Conta Bancária  Cartão de Crédito   Site    Identidade
+==============  ==================  ======  ===============
+Banco           Bandeira            Titulo  Nome
+Agência         Nome                URL     Data. Nasc.
+Conta           Número              Login   E-mail
+**************  ******************  ******  ***************
+Senha Cartão    Código seg          Senha   RG
+Senha Online    Senha                       Órgão emissor
+                Expiração                   CPF
+                                            Passaporte
+
+* dados abaixo da linha *** aparecem somente após clique no item

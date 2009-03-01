@@ -1,0 +1,41 @@
+===========
+Publicacoes
+===========
+
+Uma publicação tem título, uma lista de criadores e um identificador:
+
+    >>> from publicacoes import Publicacao
+    >>> p1 = Publicacao('O Alienista',['Machado de Assis'], '1850')
+    >>> print p1.ficha()
+    O Alienista (1850)
+      por Machado de Assis
+      
+Apenas o título é obrigatório. Na conversão para str são usados apenas o 
+título e o ano:
+
+    >>> p2 = Publicacao('Lista Telefônica de Recife', ano='2008')
+    >>> print p2
+    Lista Telefônica de Recife 2008
+    >>> p3 = Publicacao('Nokia N62: Manual do Proprietário')
+    >>> print p3
+    Nokia N62: Manual do Proprietário
+  
+Quando há mais de um criador, a lista de nomes é exibida com vírgulas e a
+conjunção 'e':
+
+    >>> p4 = Publicacao('Information Technology',['A. Laudon','B. Laudon'])
+    >>> print p4.ficha()
+    Information Technology
+      por A. Laudon e B. Laudon
+
+Um livro é uma publicação:
+
+    >>> from publicacoes import Livro
+    >>> issubclass(Livro, Publicacao)
+    True
+    >>> l = Livro('Sidarta', ['Hermann Hesse'])
+    >>> isinstance(l, Livro), isinstance(l, Publicacao)
+    (True, True)
+    >>> l.ficha()
+    'Sidarta\n  por Hermann Hesse'
+    

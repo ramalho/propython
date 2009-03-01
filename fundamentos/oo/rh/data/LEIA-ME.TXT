@@ -1,0 +1,1 @@
+Este diretorio serve para armazenar os dados e arquivos temporarios usados pelo SQLite3

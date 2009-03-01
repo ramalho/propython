@@ -1,0 +1,38 @@
+{%extends "modelo.django.html"%}
+
+{%block miolo%}
+
+    {%if logado%}
+
+        <p>Olá, <em>{{usr.nickname}}</em></p>
+        
+        {% if grupos_administra %}
+            <h3>Você é administrador dos seguintes grupos:</h3>
+        
+            <table border="1">
+                {% for grupo in grupos_administra %}
+                    <tr>
+                        <td><a href="/grupo?key={{grupo.key}}">{{grupo.nome}}</a></td>
+                        <td>{{grupo.qt_participantes}}</td>
+                    </tr>
+                {% endfor %}    
+            </table>
+        {%endif%}
+            
+        <p><a href="/criar">Criar um novo grupo</a></p>
+
+    {%endif%}
+    <div>
+    <h4>Com o <em>amig0 5ecreto</em> você pode organizar festas com vantagens:</h4>
+    
+    <ul>
+        <li>o sorteio dos nomes evita presentes recíprocos e panelinhas</li>
+        <li>a troca de mensagens preserva a identidade secreta dos remetentes</li>
+        <li>no dia da festa os nomes podem ser revelados num telão</li>    
+    </ul>
+    </div>
+    {%if not logado%}
+        <p>Para criar um grupo, ou se juntar a um, você precisa se autenticar no Google.</p>
+    
+    {%endif%}
+{%endblock%}
