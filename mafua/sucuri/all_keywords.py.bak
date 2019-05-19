@@ -35,8 +35,8 @@ def prepend(word):
     return res
 
 
-print((prepend("mature")))
-print((prepend("MATURE")))
+print(prepend("mature"))
+print(prepend("MATURE"))
 
 inc = lambda x: x + 1
 
@@ -64,7 +64,7 @@ for i in numbers(4):
 n = 99
 while not False:
     try:
-        print((inc(n)))
+        print(inc(n))
         inc = None
     except TypeError:
         if inc is None:

@@ -7,5 +7,5 @@ def fibonacci(a=1, b=1):
 
 t = fibonacci()
 para i em faixa(100): 
-    exibir t.next()
+    exibir next(t)
    

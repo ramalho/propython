@@ -41,7 +41,7 @@ RESERVADAS = (
 
 class StreamReader(codecs.StreamReader):
     def decode(self, entrada, erros='strict'): 
-        utf_reader = codecs.getreader('utf8')
+        # utf_reader = codecs.getreader('utf8')
         saida = entrada
         # saida, n = utf_reader.decode(entrada, erros)
         for orig, trad in RESERVADAS:
@@ -50,13 +50,14 @@ class StreamReader(codecs.StreamReader):
             
             if trad+':' in saida:
                 saida = saida.replace(trad+':', orig+':')
-        return unicode(saida), len(entrada)
+        return saida, len(entrada)
 
 def get_my_codec(name):
-    if name == 'sucuri':
-        return (codecs.utf_8_encode, None, StreamReader, None)
+    #if name == 'sucuri':
+    return (codecs.utf_8_encode, None, StreamReader, None)
 
 codecs.register(get_my_codec)
 __builtins__['tam'] = len
 __builtins__['faixa'] = range
+__builtins__['prox'] = next
 
