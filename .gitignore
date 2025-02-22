@@ -1,5 +1,1 @@
-*.pyc
-*~
-*.kpf
-*.wpr
-
+.ipynb_checkpoints/
