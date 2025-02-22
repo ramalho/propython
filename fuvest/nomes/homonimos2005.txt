@@ -1,0 +1,536 @@
+12	Ana Paula da Silva
+11	Ana Paula dos Santos
+7	Elaine Cristina da Silva
+6	Ana Paula de Souza
+6	Maria Aparecida da Silva
+5	Juliana Aparecida da Silva
+5	Leandro Gomes da Silva
+5	Vanessa dos Santos
+4	Aline da Silva
+4	Ana Carolina da Silva
+4	Ana Claudia da Silva
+4	Ana Lucia dos Santos
+4	Ana Paula Pereira da Silva
+4	Anderson Alves da Silva
+4	Carlos Eduardo da Silva
+4	Carlos Eduardo dos Santos
+4	Janaina Pereira da Silva
+4	Luciana Aparecida dos Santos
+4	Marcelo da Silva
+4	Maria Aparecida Alves da Silva
+4	Maria Aparecida dos Santos
+4	Paulo Roberto da Silva
+4	Priscila da Silva
+4	Rodrigo de Oliveira
+3	Adriana da Silva
+3	Aline Costa
+3	Ana Lucia de Oliveira
+3	Ana Maria da Silva
+3	Ana Maria de Souza
+3	Ana Paula de Oliveira
+3	Anderson da Silva Santos
+3	Andre Luiz da Silva
+3	Andre Luiz Ribeiro
+3	Andreia Silva Santos
+3	Camila dos Santos
+3	Camila Ferreira da Silva
+3	Camila Rodrigues dos Santos
+3	Cristiane da Silva
+3	Cristina Maria da Silva
+3	Daniel Lopes da Silva
+3	Daniela Aparecida da Silva
+3	Daniela dos Santos Silva
+3	Daniela Pereira de Souza
+3	Daniele de Souza
+3	Debora Cristina dos Santos
+3	Eduardo Pereira da Silva
+3	Elaine Cristina de Oliveira
+3	Elaine Cristina de Souza
+3	Felipe Rodrigues da Silva
+3	Fernanda Aparecida da Silva
+3	Fernanda dos Santos
+3	Heloiza Brambatti Granjeiro
+3	Janaina da Silva
+3	Joao Carlos de Oliveira
+3	Joao Paulo da Silva
+3	Juliana Alves da Silva
+3	Juliana Alves de Oliveira
+3	Juliana Cristina da Silva
+3	Juliana da Silva
+3	Juliana Ferreira da Silva
+3	Juliana Maria da Silva
+3	Julio Cesar de Oliveira
+3	Leandro da Silva
+3	Luana dos Santos
+3	Marcelo Pereira da Silva
+3	Maria do Socorro da Silva
+3	Maria Lucia dos Santos
+3	Odair Jose da Silva
+3	Patricia da Silva
+3	Patricia Pereira da Silva
+3	Priscila Cristina dos Santos
+3	Priscila da Silva Nascimento
+3	Ricardo Rodrigues da Silva
+3	Simone Alves da Silva
+3	Simone Aparecida da Silva
+3	Simone Cristina da Silva
+3	Simone Pereira da Silva
+3	Tatiane Aparecida da Silva
+3	Tatiane Silva de Sousa
+3	Thiago da Silva
+3	Vanessa Aparecida da Silva
+3	Vanessa Cristina da Silva
+3	Vanessa Pereira dos Santos
+3	Viviane Fernandes da Silva
+3	William Alves dos Santos
+2	Adilson Lopes de Oliveira
+2	Adriana Alves da Silva
+2	Adriana Aparecida da Silva
+2	Adriana Aparecida de Oliveira
+2	Adriana Aparecida dos Santos
+2	Adriana Barbosa de Oliveira
+2	Adriana de Oliveira
+2	Adriana de Sousa Pereira
+2	Adriana de Souza
+2	Adriana dos Santos Ferreira
+2	Adriana Ferreira Campos
+2	Adriana Maria da Silva
+2	Adriana Maria de Oliveira
+2	Adriano dos Santos Costa
+2	Adriano Jose da Silva
+2	Adriano Pereira de Lima
+2	Alessandra de Oliveira
+2	Alexandra Ferreira da Silva
+2	Alexandre Rodrigues
+2	Alexandre Silva Santos
+2	Alexandre Souza dos Santos
+2	Aline Cristina da Silva
+2	Aline da Silva Carvalho
+2	Aline de Oliveira Silva
+2	Aline de Souza Santos
+2	Aline Maria da Silva
+2	Aline Pereira
+2	Aline Rodrigues da Silva
+2	Amanda Fernandes da Silva
+2	Amanda Ferreira dos Santos
+2	Amanda Sousa da Silva
+2	Ana Carolina de Souza
+2	Ana Carolina dos Santos
+2	Ana Claudia de Freitas
+2	Ana Claudia Ferreira da Silva
+2	Ana Lucia da Silva
+2	Ana Maria dos Santos
+2	Ana Paula Alves de Souza
+2	Ana Paula Alves dos Santos
+2	Ana Paula Aparecida dos Santos
+2	Ana Paula Barbosa
+2	Ana Paula da Silva Pereira
+2	Ana Paula de Souza Oliveira
+2	Ana Paula Ferreira
+2	Ana Paula Francisca dos Santos
+2	Ana Paula Vieira da Silva
+2	Anderson Martins de Araujo
+2	Anderson Oliveira da Silva
+2	Anderson Pereira da Silva
+2	Anderson Pereira dos Santos
+2	Anderson Rodrigues da Silva
+2	Andre Luiz de Sousa
+2	Andre Luiz Ferreira dos Santos
+2	Andre Pereira da Silva
+2	Andrea dos Santos
+2	Andrea Juliana Faragacci
+2	Andreia da Silva Gomes
+2	Andreia dos Santos
+2	Andreia Pereira da Silva
+2	Antonio Carlos de Assis
+2	Antonio Carlos dos Santos
+2	Beatriz de Oliveira
+2	Bruna da Silva Pereira
+2	Bruno Luiz de Oliveira
+2	Camila Cristina da Silva
+2	Camila Cristina de Oliveira
+2	Camila de Souza Silva
+2	Camila Fernandes
+2	Camila Santos de Oliveira
+2	Camila Silva dos Santos
+2	Carla Cristina da Silva
+2	Carlos Alberto dos Santos
+2	Carlos Alberto Rodrigues
+2	Carlos Eduardo Alves dos Santos
+2	Carlos Eduardo de Souza
+2	Carolina Aparecida da Silva
+2	Cesar Augusto da Silva
+2	Cintia Cristina Pereira da Silva
+2	Cintia dos Santos Silva
+2	Claudia Maria da Silva
+2	Claudio Jose da Silva
+2	Cleide da Silva Oliveira
+2	Cristiane Alves Pereira
+2	Cristiane Aparecida Alves
+2	Cristiane Aparecida dos Santos
+2	Cristiane Pereira dos Santos
+2	Cristiane Vieira da Silva
+2	Cristina dos Santos Silva
+2	Daiane da Silva
+2	Daniel Ferreira dos Santos
+2	Daniel Oliveira Lemos
+2	Daniela Aparecida dos Santos
+2	Daniela Aparecida Nascimento
+2	Daniela da Silva
+2	Daniela Oliveira Ferreira
+2	Daniela Silva
+2	Daniele Rodrigues
+2	Danilo Gomes da Silva
+2	David de Jesus Santos
+2	David dos Santos
+2	Debora Alves de Souza
+2	Debora da Silva
+2	Debora Lima dos Santos
+2	Denise de Souza Santos
+2	Denise Pereira
+2	Diego Alves dos Santos
+2	Diego dos Santos Lima
+2	Diego Pereira de Souza
+2	Diego Santos da Silva
+2	Douglas da Silva Santos
+2	Edilaine Aparecida dos Santos
+2	Edna Maria de Souza
+2	Edna Martins da Silva
+2	Edson dos Santos
+2	Edson Pereira
+2	Edson Silva de Souza
+2	Eduardo da Silva
+2	Eduardo Santos Rocha
+2	Elaine Alves da Silva
+2	Elaine Cristina dos Santos
+2	Elaine Ferreira dos Santos
+2	Elaine Pereira da Silva
+2	Eliana Aparecida da Silva
+2	Eliana Ferreira da Silva
+2	Eliana Silva dos Santos
+2	Eliane de Jesus Santos
+2	Eliane dos Santos
+2	Eliane dos Santos Silva
+2	Eliane Maria da Silva
+2	Eliane Maria Pereira
+2	Elisangela da Silva
+2	Elisangela Maria da Silva
+2	Elisangela Pereira dos Santos
+2	Elizeu Lima da Silva
+2	Emerson Rodrigues da Silva
+2	Erica da Silva Santana
+2	Erica Gomes da Silva
+2	Erica Santos da Silva
+2	Erika de Oliveira
+2	Fabiana Aparecida da Silva
+2	Fabiana da Silva Costa
+2	Fabiana de Oliveira dos Santos
+2	Fabiana de Oliveira Santos
+2	Fabiana de Souza
+2	Fabiana Francisca dos Santos
+2	Fabiana Leite da Silva
+2	Fabiana Pereira de Souza
+2	Fabio Alves Correia
+2	Fabio Alves da Silva
+2	Fabio Gomes da Silva
+2	Fabio Henrique dos Santos
+2	Fabio Oliveira da Silva
+2	Fabio Rodrigo Teodoro
+2	Fabio Santos da Silva
+2	Fabiola de Souza Silva
+2	Felipe Ferreira de Lima
+2	Fernanda Cristina de Souza
+2	Fernanda Cristina do Nascimento
+2	Fernanda de Oliveira Fernandes
+2	Fernanda dos Santos Ferreira
+2	Fernanda dos Santos Gomes
+2	Fernanda Rodrigues
+2	Fernanda Sousa Alves
+2	Fernanda Vieira dos Santos
+2	Fernando da Silva
+2	Fernando dos Santos
+2	Fernando Santos de Oliveira
+2	Flavia Alves Ferreira
+2	Flavia Aparecida dos Santos
+2	Flavia Monteiro
+2	Flavia Silva dos Reis
+2	Flavio da Silva Almeida
+2	Flavio Jorge Ribeiro
+2	Flavio Pereira de Souza
+2	Flavio Sousa Santos
+2	Francisco Xavier da Silva Junior
+2	Gabriela Aparecida da Silva
+2	Gabriela dos Santos
+2	Gisele da Silva
+2	Gisele de Souza
+2	Gisele dos Santos
+2	Gisele dos Santos Vieira
+2	Gisele Lopes
+2	Grace Kelly Santos Nobrega
+2	Igor Fernandes Pereira
+2	Isabel Cristina dos Santos
+2	Izabel Cristina da Silva
+2	Jacqueline Aparecida dos Santos
+2	Janaina dos Santos
+2	Janaina Franca da Silva
+2	Janaina Gomes da Silva
+2	Janaina Oliveira dos Santos
+2	Jaqueline Aparecida dos Santos
+2	Jaqueline da Silva
+2	Jaqueline Ferreira da Silva
+2	Jaqueline Oliveira dos Santos
+2	Jefferson dos Santos
+2	Joao Batista da Silva
+2	Joao Paulo Pereira
+2	Joelma Maria da Silva
+2	Jorge Luiz da Silva
+2	Jose Augusto dos Santos
+2	Jose Carlos da Silva
+2	Jose de Souza Santos
+2	Jose Fernando da Silva
+2	Josue Ferreira da Silva
+2	Jucilea Rosendo dos Santos
+2	Juliana Almeida dos Santos
+2	Juliana Alves dos Santos
+2	Juliana Aparecida dos Santos
+2	Juliana Batista de Andrade
+2	Juliana Cardoso da Silva
+2	Juliana Costa de Oliveira
+2	Juliana Cristina dos Santos
+2	Juliana da Silva Lopes
+2	Juliana de Almeida Pires
+2	Juliana do Nascimento
+2	Juliana dos Santos Vieira
+2	Juliana Ferreira de Oliveira
+2	Juliana Maria Silva
+2	Juliana Martins da Silva
+2	Juliana Martins Santana
+2	Juliana Pereira da Silva
+2	Juliana Pereira dos Santos
+2	Juliana Ribeiro da Silva
+2	Juliana Rodrigues de Oliveira
+2	Juliana Rodrigues dos Santos
+2	Juliana Rodrigues Lima
+2	Juliana Santos de Oliveira
+2	Juliana Tomaz da Silva
+2	Julio Cesar da Silva
+2	Julio Cesar Silva
+2	Karina Alves da Silva
+2	Karina Aparecida de Lima
+2	Karina dos Santos
+2	Karina dos Santos Matos
+2	Karina Pereira da Silva
+2	Katia Alves da Silva
+2	Katia Aparecida da Silva
+2	Katia Aparecida Ferreira
+2	Katia Cristina da Silva
+2	Kelly Cristina da Silva
+2	Kelly Cristina Moreira
+2	Lais Aparecida da Silva
+2	Leandro de Oliveira
+2	Leandro Dias da Silva
+2	Leandro dos Santos
+2	Leandro Lima da Silva
+2	Leonardo Gomes da Silva
+2	Lidiane dos Santos Silva
+2	Lilian Batista dos Santos
+2	Lilian Santana Ferreira
+2	Liliane Pereira da Silva
+2	Liliane Silva dos Santos
+2	Luana Aparecida da Silva
+2	Luciana Alves de Oliveira
+2	Luciana Alves Ferreira
+2	Luciana de Aguiar
+2	Luciana de Oliveira
+2	Luciana dos Santos
+2	Luciana Maria dos Santos
+2	Luciana Pereira da Silva
+2	Luciano Oliveira da Silva
+2	Luciene Ribeiro da Silva
+2	Luiz Fernando dos Santos
+2	Luiz Henrique dos Santos
+2	Luiz Ricardo da Silveira
+2	Maira Gomes da Silva
+2	Marcela Inacio da Silva
+2	Marcelo de Souza Lima
+2	Marcelo dos Santos
+2	Marcelo Ferreira da Silva
+2	Marcelo Marques da Silva
+2	Marcelo Ribeiro dos Santos
+2	Marcelo Souza da Silva
+2	Marcelo Souza dos Santos
+2	Marcia Aparecida da Silva
+2	Marcia Correia da Silva
+2	Marcia Cristina da Silva
+2	Marcia Regina da Silva
+2	Marco Antonio Ribeiro da Silva
+2	Marcos Antonio de Oliveira
+2	Marcos Antonio de Paula
+2	Marcos dos Santos
+2	Marcus Vinicius dos Santos
+2	Maria Aparecida de Jesus
+2	Maria Aparecida Gomes da Silva
+2	Maria das Dores da Silva
+2	Maria de Fatima da Silva
+2	Maria do Carmo Silva
+2	Maria do Socorro Silva
+2	Maria Helena da Silva
+2	Maria Jose Pereira da Silva
+2	Mariana Martins de Oliveira
+2	Mariana Santos Ribeiro
+2	Marina Costa de Oliveira
+2	Mario Sergio da Silva
+2	Marisa Pereira de Oliveira
+2	Marli Aparecida da Silva
+2	Mauricio de Oliveira
+2	Michelle de Souza
+2	Monica de Souza Silva
+2	Monica Pereira da Silva
+2	Monica Regina dos Santos
+2	Natalia Alves dos Santos
+2	Natalia Costa
+2	Natalia de Oliveira Silva
+2	Natalia Ferreira da Silva
+2	Natalia Raquel da Silva
+2	Osmere Dolores da Silva
+2	Oziel Alves da Silva
+2	Pamela da Silva
+2	Patricia Alves da Silva
+2	Patricia Aparecida Pereira
+2	Patricia da Silva Oliveira
+2	Patricia de Araujo Santos
+2	Patricia de Oliveira
+2	Patricia de Oliveira Silva
+2	Patricia dos Santos
+2	Patricia Rodrigues de Souza
+2	Patricia Souza dos Santos
+2	Patricia Vieira da Silva
+2	Paulo Cesar da Silva
+2	Paulo de Souza
+2	Paulo Henrique dos Santos
+2	Paulo Sergio da Silva
+2	Pedro Jose dos Santos
+2	Peterson da Silva Santos
+2	Priscila Alves da Silva
+2	Priscila Araujo da Silva
+2	Priscila Cristina da Silva
+2	Priscila da Silva Batista
+2	Priscila de Oliveira
+2	Priscila dos Santos Pereira
+2	Priscila Duarte Baldini
+2	Priscila Gomes da Silva
+2	Priscila Gonzaga dos Santos
+2	Priscila Oliveira dos Santos
+2	Priscila Regina dos Santos
+2	Priscila Ribeiro da Silva
+2	Priscila Rodrigues Pereira
+2	Priscila Silva
+2	Priscila Soares da Silva
+2	Rafael da Silva
+2	Rafael da Silva Borges
+2	Rafael Rodrigues de Souza
+2	Raquel Gomes Moreira
+2	Raquel Maria da Silva
+2	Raquel Rodrigues dos Santos
+2	Regiane Silva dos Santos
+2	Renata Alves de Souza
+2	Renata Cavalcante da Silva
+2	Renata de Almeida
+2	Renata de Mendonca
+2	Renata Lima dos Santos
+2	Renata Maria da Silva
+2	Renata Souza da Silva
+2	Renato Gomes
+2	Ricardo dos Santos Silva
+2	Ricardo Pereira de Souza
+2	Roberto Braz da Silva
+2	Robson da Silva
+2	Robson dos Santos
+2	Robson Oliveira Santos
+2	Rodrigo de Mello
+2	Rodrigo de Souza Ribeiro
+2	Rodrigo do Nascimento
+2	Rodrigo dos Santos
+2	Rodrigo Jose de Oliveira
+2	Rodrigo Rodrigues da Silva
+2	Rogerio da Silva
+2	Rogerio Lopes
+2	Rosangela Alves dos Santos
+2	Rosileide dos Santos Souza
+2	Rosilene Costa de Souza
+2	Samara da Silva
+2	Sandra Alves da Silva
+2	Sandra Maria da Costa
+2	Sandra Regina da Silva
+2	Sandra Regina Pereira da Silva
+2	Sara Silva de Souza
+2	Selma Santos de Oliveira
+2	Sergio Roberto dos Santos
+2	Sheila de Souza Lima
+2	Sidnei da Silva
+2	Silvana Alves da Silva
+2	Silvana dos Santos
+2	Silvana Gomes de Oliveira
+2	Simone Aparecida de Souza
+2	Simone Goncalves da Silva
+2	Solange Aparecida da Silva
+2	Suelen dos Santos Gomes
+2	Talita Caroline de Oliveira
+2	Talita da Silva
+2	Talita Maria da Silva
+2	Tamiris Bezerra da Silva
+2	Tatiana Aparecida da Silva
+2	Tatiana Bezerra da Silva
+2	Tatiana Ferreira dos Santos
+2	Tatiana Oliveira da Silva
+2	Tatiane Bezerra da Silva
+2	Tatiane da Silva Oliveira
+2	Tatiane Fernandes de Oliveira
+2	Thais Cristina da Silva
+2	Thais Ferreira da Silva
+2	Thais Pereira da Silva
+2	Thais Pereira Silva
+2	Thiago Alves dos Santos
+2	Thiago da Hora Souza
+2	Thiago de Souza Lima
+2	Thiago dos Santos
+2	Thiago dos Santos Soares
+2	Thiago Ferreira de Almeida
+2	Thiago Goncalves da Silva
+2	Thiago Luiz da Silva
+2	Thiago Oliveira dos Santos
+2	Thiago Santos de Araujo
+2	Thiago Silva dos Santos
+2	Thiago Soares dos Santos
+2	Tiago Ferreira dos Santos
+2	Valdir dos Santos
+2	Valeria Batista da Costa
+2	Valeria Gomes
+2	Valeria Regina da Silva
+2	Valeria Ribeiro da Silva
+2	Vanessa Aparecida Pereira
+2	Vanessa Aparecida Rosa
+2	Vanessa Cardoso dos Santos
+2	Vanessa da Silva Ribeiro
+2	Vanessa dos Santos Ferreira
+2	Vanessa Fernandes da Silva
+2	Vanessa Ferreira da Silva
+2	Vanessa Gomes da Silva
+2	Vanessa Machado
+2	Vanessa Pereira da Silva
+2	Vanessa Rodrigues de Souza
+2	Vanessa Santos da Silva
+2	Vania de Oliveira
+2	Vera Lucia da Silva
+2	Vitor Hugo Moreira Silva
+2	Viviane Alves da Silva
+2	Viviane Alves de Oliveira
+2	Viviane Cristina da Silva
+2	Viviane da Silva
+2	Viviane da Silva Santos
+2	Viviane Rodrigues da Silva
+2	Viviane Silva de Oliveira
+2	Wagner Alves da Silva
+2	Wagner Ferreira da Silva
+2	Yolanda Silva de Oliveira
+# qtd_homonimos=1204, qtd_total=46756, pct=2.6%

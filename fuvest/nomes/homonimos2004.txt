@@ -1,0 +1,190 @@
+6	Ana Paula da Silva
+6	Maria Aparecida da Silva
+5	Maria Aparecida dos Santos
+4	Ana Maria dos Santos
+4	Elaine Cristina da Silva
+4	Jose Carlos da Silva
+3	Adriana Pereira da Silva
+3	Alexandre da Silva
+3	Ana Lucia dos Santos
+3	Ana Paula de Oliveira
+3	Ana Paula dos Santos
+3	Anderson da Silva Santos
+3	Angela Maria da Silva
+3	Antonio da Silva
+3	Cristiane da Silva
+3	Fernanda Cristina de Souza
+3	Jose Carlos dos Santos
+3	Jose Fernando da Silva
+3	Juliana Pereira da Silva
+3	Luciana dos Santos
+3	Luiz Carlos da Silva
+3	Luiz Carlos de Oliveira
+3	Marcelo dos Santos
+3	Marcos dos Santos
+3	Maria de Lourdes da Silva
+3	Simone da Silva
+3	Vanessa Cristina Vieira
+2	Adriana de Souza
+2	Adriana Ferreira da Silva
+2	Adriana Marques da Silva
+2	Adriana Rodrigues
+2	Adriana Souza Ribeiro
+2	Adriano Antonio da Silva
+2	Alessandra Ferreira de Oliveira
+2	Alessandra Silva
+2	Alex Sandro Soares
+2	Alexandra Cristina dos Santos
+2	Alexsandro de Souza
+2	Aline de Oliveira Goncalves
+2	Aline dos Santos Batista
+2	Ana Aparecida de Souza
+2	Ana Cristina da Silva
+2	Ana Cristina de Oliveira
+2	Ana Cristina dos Santos
+2	Ana Maria da Silva
+2	Ana Paula do Nascimento Silva
+2	Ana Paula Oliveira Santos
+2	Ana Paula Ribeiro
+2	Anderson Aparecido da Silva
+2	Andre Cassiano dos Santos
+2	Andre Luiz de Souza
+2	Andrea da Silva
+2	Andreia Aparecida da Silva
+2	Andreia da Silva
+2	Antonio Carlos dos Santos
+2	Antonio Marcos da Silva
+2	Antonio Pereira da Silva
+2	Carlos Alberto Alves
+2	Carlos Alberto da Silva
+2	Carlos Eduardo da Silva
+2	Claudia Regina da Silva
+2	Claudio Pereira da Silva
+2	Clayton Alves dos Santos
+2	Cristiane de Almeida
+2	Cristiane Gomes da Silva
+2	Cristiane Pereira da Silva
+2	Cristiano de Jesus Almeida
+2	Cristina Maria da Silva
+2	Daniela Aparecida da Silva
+2	Daniela da Silva
+2	Debora Maria de Souza
+2	Deise Alves dos Santos
+2	Denis Aparecido Bento de Araujo
+2	Douglas dos Santos
+2	Ed Carlos Alves de Sousa
+2	Edson Ribeiro de Souza
+2	Eduardo da Silva
+2	Eduardo dos Santos Silva
+2	Elaine Aparecida dos Santos
+2	Elaine Barbosa da Silva
+2	Elaine Gomes da Silva
+2	Elisangela Aparecida da Silva
+2	Elisangela da Silva
+2	Elisangela Maria dos Santos
+2	Elisangela Pereira da Silva
+2	Elton Alves de Oliveira
+2	Evandro Ribeiro Maximo
+2	Everaldo Tomaz de Aquino
+2	Fabiana Alves da Silva
+2	Fabio da Silva Nascimento
+2	Fabio Henrique dos Santos
+2	Fabricio Dias Pereira
+2	Fernanda Alves
+2	Fernanda Aparecida da Silva
+2	Fernanda Rodrigues da Silva
+2	Fernando Ferreira dos Santos
+2	Flavio de Almeida
+2	Flavio Pedroza Calixto
+2	Gilmar Pereira da Silva
+2	Gisele da Silva
+2	Gisele de Fatima Alves dos Santos
+2	Janaina Ferreira da Silva
+2	Jefferson Cardoso dos Santos
+2	Joao Batista da Silva
+2	Joao Paulo de Souza
+2	Jorge Jose do Nascimento
+2	Juliana Alves Pereira
+2	Juliana Aparecida dos Santos
+2	Juliana Cristina dos Santos
+2	Juliana Lima da Silva
+2	Julio Cesar da Silva
+2	Julio Cesar dos Santos
+2	Jussara Aparecida da Silva
+2	Katia Cristina da Silva
+2	Keityana Keyla Silva Ferreira
+2	Kelly Cristina da Silva
+2	Leandro Santos da Silva
+2	Leonice Nogueira
+2	Lidiane dos Santos
+2	Lilian Ferreira dos Santos
+2	Luana Cristina dos Santos
+2	Luciana Alves de Oliveira
+2	Luciana Alves dos Santos
+2	Luciana Maria Alves
+2	Luciana Pereira da Silva
+2	Luciano Alves da Silva
+2	Luciene Aparecida da Silva
+2	Luiz Augusto Silva
+2	Luiz Carlos Gomes
+2	Marcelo da Silva
+2	Marcelo Ferreira dos Santos
+2	Marcia Oliveira da Silva
+2	Marcia Regina da Silva
+2	Marcos Paulo da Silva
+2	Maria Cicera dos Santos
+2	Maria Claudia da Silva
+2	Maria Cristina dos Santos
+2	Maria de Lourdes Ferreira
+2	Maria do Socorro da Silva
+2	Maria Sonia da Silva
+2	Martilio Severiano de Araujo
+2	Mauricio Antonio da Silva
+2	Michele Aparecida da Silva
+2	Michele dos Santos
+2	Michelle do Nascimento Sales
+2	Mirian Dias da Silva
+2	Mirian Maria da Silva
+2	Murilo Figueiredo
+2	Patricia Cristina da Silva
+2	Patricia Ferreira da Silva
+2	Patricia Maria da Silva
+2	Patricia Pereira da Silva
+2	Patricia Silva dos Santos
+2	Patricia Soares de Oliveira
+2	Paulo dos Santos
+2	Peter Santos Furtado
+2	Priscila Aparecida dos Santos
+2	Priscila Cardoso da Silva
+2	Priscila Oliveira da Silva
+2	Rafael dos Santos
+2	Renata Cavalcante Reis da Silva
+2	Renata de Souza
+2	Renata Maria da Silva
+2	Renato Pereira de Almeida
+2	Ricardo da Silva
+2	Ricardo Rodrigues da Silva
+2	Rodrigo Garcia
+2	Rodrigo Goncalves dos Santos
+2	Rosana Pereira da Silva
+2	Rute da Silva
+2	Sandra Maria da Silva
+2	Severino Jose da Silva
+2	Shirlane Pereira Conceicao Nasciment
+2	Shirley da Conceicao Nascimento
+2	Silmara Jesus Correia
+2	Silvana Pereira da Silva
+2	Simone Alves da Silva
+2	Sueli Aparecida da Silva
+2	Tatiana Nascimento Santos
+2	Thais Garcia da Silva
+2	Tiago Chiaveri da Costa
+2	Vagner Otacilio Moreira
+2	Valdir dos Santos
+2	Vanessa Cristina da Silva
+2	Vanessa de Oliveira
+2	Vanessa Santos da Silva
+2	Wellington Teixeira
+2	William Pereira da Silva
+2	Willians Pereira Conceicao Nasciment
+# qtd_homonimos=416, qtd_total=20019, pct=2.1%
