@@ -1,13 +1,13 @@
-def zip1(*iterables):
-    if not iterables:
+def zip0(*iteráveis):
+    if not iteráveis:
         return
-    iterators = [iter(i) for i in iterables]
+    iteradores = [iter(i) for i in iteráveis]
     while True:
-        row = []
-        for itr in iterators:
+        linha = []
+        for itr in iteradores:
             try:
-                element = next(itr)
+                célula = next(itr)
             except StopIteration:
                 return
-            row.append(element)
-        yield tuple(row)
+            linha.append(célula)
+        yield tuple(linha)

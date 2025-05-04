@@ -1,29 +1,29 @@
-def zip1(*iterables, strict=False):
-    if not iterables:
+def zip1(*iteráveis, strict=False):
+    if not iteráveis:
         return
-    iterators = [iter(i) for i in iterables]
+    iteradores = [iter(i) for i in iteráveis]
     try:
         while True:
-            row = []
-            for itr in iterators:
+            linha = []
+            for itr in iteradores:
                 element = next(itr)
-                row.append(element)
-            yield tuple(row)
+                linha.append(element)
+            yield tuple(linha)
     except StopIteration:
-        if strict and len(iterables) > 1:
-            len_row = len(row)
-            if len_row == 1:
+        if strict and len(iteráveis) > 1:
+            tam_linha = len(linha)
+            if tam_linha == 1:
                 msg = 'argument 2 is shorter than argument 1'
-            elif len_row > 1:
-                msg = f'argument {len_row+1} is shorter than arguments 1-{len_row}'
-            else:  # len(row) == 0 -> first iterator exhausted, check the rest
-                sentinel = object()
-                for arg_n, itr in enumerate(iterators[1:], 2):
-                    element = next(itr, sentinel)
-                    if element is not sentinel:
+            elif tam_linha > 1:
+                msg = f'argument {tam_linha+1} is shorter than arguments 1-{tam_linha}'
+            else:  # len(linha) == 0 -> primeiro iterador vazio, checar os demais
+                sentinela = object()
+                for arg_n, itr in enumerate(iteradores[1:], 2):
+                    element = next(itr, sentinela)
+                    if element is not sentinela:
                         break
                 else:
-                    return  # all exhausted, don't raise ValueError
+                    return  # todos vazios, não levantar exceção
                 if arg_n == 2:
                     msg = 'argument 2 is longer than argument 1'
                 elif arg_n > 2:

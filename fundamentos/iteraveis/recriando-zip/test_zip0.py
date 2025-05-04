@@ -1,22 +1,22 @@
-from zip1 import zip1
+from zip0 import zip0
 
 
-def test_empty_arg():
-    assert list(zip1([])) == []
+def test_sem_arg():
+    assert list(zip0()) == []
 
 
-def test_no_arg():
-    assert list(zip1()) == []
+def test_arg_vazio():
+    assert list(zip0([])) == []
 
 
-def test_single_iterable():
-    assert list(zip1(range(3))) == [(0,), (1,), (2,)]
+def test_um_iterável():
+    assert list(zip0('ABC')) == [('A',), ('B',), ('C',)]
 
 
-def test_multiple_iterables():
-    assert list(zip1(range(3), range(7, 10))) == [(0, 7), (1, 8), (2, 9)]
+def test_vários_iteráveis():
+    assert list(zip0('AB', 'xy', '01')) == [('A', 'x', '0'), ('B', 'y', '1')]
 
 
-def test_different_len_iterables():
-    assert list(zip1(range(3), range(7, 17))) == [(0, 7), (1, 8), (2, 9)]
+def test_iteráveis_diferentes_tamanhos():
+    assert list(zip0('xy', '123')) == [('x', '1'), ('y', '2'),]
 
